@@ -312,7 +312,7 @@ a.item:active { background: var(--surface-2); }
 .tasklog { max-height: none; overflow: visible; }
 
 /* 2026-09-21 계정 이관 표시 */
-.blogchip{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:11px;font-weight:600;letter-spacing:.2px;color:#fff;background:#e3350d;text-decoration:none;vertical-align:middle}
+.blogchip{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:11px;font-weight:600;letter-spacing:.2px;color:#fff;background:#8A6F52;text-decoration:none;vertical-align:middle}
 .blogchip:hover{opacity:.85}
 
 /* 모바일 통합검색 순위 색상 등급 (2026-10-01) */
