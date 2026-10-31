@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-10-31T07:34:18.824Z",
- "collectedAtText": "2026-10-31 16:34",
+ "collectedAt": "2026-10-31T08:34:27.718Z",
+ "collectedAtText": "2026-10-31 17:34",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,7 +8,7 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 8832,
+ "elapsedMs": 8916,
  "errors": [],
  "summary": {
   "publicCount": 0,
@@ -146,18 +146,18 @@
   ],
   "today": {
    "date": "2026-10-31",
-   "utime": "2026-10-31T16:34:18",
+   "utime": "2026-10-31T17:34:27",
    "dashboard": {
     "dailyComment": 0,
     "dailyPlayCount": "0",
     "dailyCv": 0,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-10-31T16:34:18",
-    "dailyRelationDeltaUtime": "2026-10-31T16:34:18",
+    "dailyCommentUtime": "2026-10-31T17:34:27",
+    "dailyRelationDeltaUtime": "2026-10-31T17:34:27",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-10-31T16:34:18",
-    "dailyCvUtime": "2026-10-31T16:34:18"
+    "dailyLikeUtime": "2026-10-31T17:34:27",
+    "dailyCvUtime": "2026-10-31T17:34:27"
    },
    "dailyCv": [
     {
@@ -353,26 +353,15 @@
  "aiCited": [],
  "routines": [
   {
-   "id": "U4sO4ukZKUIf9vAu",
-   "name": "관제 대시보드 수집 + 예약글 공개 확인",
+   "id": "InhWSpssKgEmYdAE",
+   "name": "몽챙이 일일 운영 (대시보드 수집 + 앱 작업)",
    "role": "collect",
    "status": "active",
-   "rrule": "DTSTART;TZID=Asia/Seoul:20261101T090000\nRRULE:FREQ=DAILY;BYHOUR=9,21;BYMINUTE=0",
-   "nextRunAt": "2026-11-01T00:00:00.000Z",
+   "rrule": "DTSTART;TZID=Asia/Seoul:20261101T214000\nRRULE:FREQ=DAILY;BYHOUR=21;BYMINUTE=40",
+   "nextRunAt": "2026-11-01T12:40:00.000Z",
    "last": null,
    "missed": false,
-   "maxGapH": 12
-  },
-  {
-   "id": "1CiG36pGy7os7tD6",
-   "name": "관제 앱 작업 요청 실행 (ntfy task)",
-   "role": "task",
-   "status": "active",
-   "rrule": "DTSTART;TZID=Asia/Seoul:20261101T123000\nRRULE:FREQ=DAILY;BYHOUR=12,15,18,21;BYMINUTE=30",
-   "nextRunAt": "2026-11-01T03:30:00.000Z",
-   "last": null,
-   "missed": false,
-   "maxGapH": 15
+   "maxGapH": 24
   }
  ],
  "ops": {
@@ -481,13 +470,13 @@
    "ref": 120000,
    "selectionMonth": 12
   },
-  "at": "2026-10-31T07:34:18.824Z"
+  "at": "2026-10-31T08:34:27.718Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-10-31T07:34:18.835Z",
+  "at": "2026-10-31T08:34:27.728Z",
   "rpm7": null,
   "logDays": 1,
   "base7Date": null,
