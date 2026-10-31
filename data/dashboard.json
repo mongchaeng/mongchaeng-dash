@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-10-31T08:34:27.718Z",
- "collectedAtText": "2026-10-31 17:34",
+ "collectedAt": "2026-10-31T09:05:50.000Z",
+ "collectedAtText": "2026-10-31 18:05",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,12 +8,12 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 8916,
+ "elapsedMs": 8335,
  "errors": [],
  "summary": {
   "publicCount": 0,
-  "queueCount": 0,
-  "totalCount": 0,
+  "queueCount": 2,
+  "totalCount": 2,
   "todayCv": 0,
   "yesterdayCv": 0,
   "todayVisitor": 0,
@@ -33,8 +33,66 @@
   "totalReadCount": 0
  },
  "alerts": [],
- "posts": [],
- "queue": [],
+ "posts": [
+  {
+   "no": 1,
+   "logNo": "224460288132",
+   "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
+   "status": "예약",
+   "game": "인테리어",
+   "category": "우리집 인테리어",
+   "keyword": "방한커튼 효과",
+   "publishedText": "2026-11-01 08:20",
+   "postDate": 1793488800000,
+   "url": "https://blog.naver.com/mongchaeng_living/224460288132",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  },
+  {
+   "no": 2,
+   "logNo": "224460289472",
+   "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
+   "status": "예약",
+   "game": "가구",
+   "category": "가구 고르는 법",
+   "keyword": "소파 사이즈 고르는 법",
+   "publishedText": "2026-11-01 20:40",
+   "postDate": 1793533200000,
+   "url": "https://blog.naver.com/mongchaeng_living/224460289472",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  }
+ ],
+ "queue": [
+  {
+   "logNo": "224460288132",
+   "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
+   "postDate": 1793488800000,
+   "postDateText": "2026-11-01 08:20",
+   "addDate": 1793437410208
+  },
+  {
+   "logNo": "224460289472",
+   "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
+   "postDate": 1793533200000,
+   "postDateText": "2026-11-01 20:40",
+   "addDate": 1793437511017
+  }
+ ],
  "comments": [],
  "stats": {
   "dailyCv": [
@@ -146,18 +204,18 @@
   ],
   "today": {
    "date": "2026-10-31",
-   "utime": "2026-10-31T17:34:27",
+   "utime": "2026-10-31T18:05:49",
    "dashboard": {
     "dailyComment": 0,
     "dailyPlayCount": "0",
     "dailyCv": 0,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-10-31T17:34:27",
-    "dailyRelationDeltaUtime": "2026-10-31T17:34:27",
+    "dailyCommentUtime": "2026-10-31T18:05:49",
+    "dailyRelationDeltaUtime": "2026-10-31T18:05:49",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-10-31T17:34:27",
-    "dailyCvUtime": "2026-10-31T17:34:27"
+    "dailyLikeUtime": "2026-10-31T18:05:49",
+    "dailyCvUtime": "2026-10-31T18:05:49"
    },
    "dailyCv": [
     {
@@ -336,7 +394,10 @@
   }
  },
  "games": {
-  "count": {},
+  "count": {
+   "인테리어": 1,
+   "가구": 1
+  },
   "target": {
    "인테리어": 40,
    "가구": 30,
@@ -470,13 +531,13 @@
    "ref": 120000,
    "selectionMonth": 12
   },
-  "at": "2026-10-31T08:34:27.718Z"
+  "at": "2026-10-31T09:05:50.000Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-10-31T08:34:27.728Z",
+  "at": "2026-10-31T09:05:50.009Z",
   "rpm7": null,
   "logDays": 1,
   "base7Date": null,
@@ -493,8 +554,8 @@
   {
    "level": "info",
    "type": "slots",
-   "title": "예약 빈 슬롯 (3일)",
-   "text": "11/1 0/2 · 11/2 0/2 · 11/3 0/2 · 신규 글 루틴이 채움",
+   "title": "예약 빈 슬롯 (2일)",
+   "text": "11/2 0/2 · 11/3 0/2 · 신규 글 루틴이 채움",
    "action": {
     "label": "새 글 1개 요청",
     "preset": 5
