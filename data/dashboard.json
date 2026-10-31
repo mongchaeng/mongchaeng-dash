@@ -1,0 +1,513 @@
+{
+ "collectedAt": "2026-10-31T07:20:45.386Z",
+ "collectedAtText": "2026-10-31 16:20",
+ "blogId": "mongchaeng_living",
+ "blogUrl": "https://blog.naver.com/mongchaeng_living",
+ "blogName": "몽챙이의 집 꾸미기",
+ "reopenedAt": "2026-10-31",
+ "topicLabel": "리빙",
+ "perDay": 2,
+ "ntfyTopic": "mongchaeng-5tyx2z",
+ "elapsedMs": 9736,
+ "errors": [],
+ "summary": {
+  "publicCount": 0,
+  "queueCount": 0,
+  "totalCount": 0,
+  "todayCv": 0,
+  "yesterdayCv": 0,
+  "todayVisitor": 0,
+  "buddyCount": 1,
+  "citations": {
+   "cumulative": 0,
+   "month": 0,
+   "selectionPeriod": 0,
+   "currentMonth": 10,
+   "selectionPeriodMonth": 8
+  },
+  "unansweredComments": 0,
+  "totalComments": 0,
+  "v5Pending": 0,
+  "probeFail": 0,
+  "searchOff": 0,
+  "totalReadCount": 0,
+  "notIndexed48": 0,
+  "indexRatio48": null
+ },
+ "alerts": [],
+ "posts": [],
+ "queue": [],
+ "comments": [],
+ "stats": {
+  "dailyCv": [
+   {
+    "date": "2026-10-31",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-30",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-29",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-28",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-27",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-26",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-25",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-24",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-23",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-22",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-21",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-20",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-19",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-18",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   },
+   {
+    "date": "2026-10-17",
+    "total": 0,
+    "friend": 0,
+    "follow": 0,
+    "etc": 0
+   }
+  ],
+  "today": {
+   "date": "2026-10-31",
+   "utime": "2026-10-31T16:20:44",
+   "dashboard": {
+    "dailyComment": 0,
+    "dailyPlayCount": "0",
+    "dailyCv": 0,
+    "dailyLike": 0,
+    "dailyCommentUtime": "2026-10-31T16:20:44",
+    "dailyRelationDeltaUtime": "2026-10-31T16:20:44",
+    "dailyRelationDelta": 0,
+    "isToday": true,
+    "dailyLikeUtime": "2026-10-31T16:20:44",
+    "dailyCvUtime": "2026-10-31T16:20:44"
+   },
+   "dailyCv": [
+    {
+     "date": "2026-10-31",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-30",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-29",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-28",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-27",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-26",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-25",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-24",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-23",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-22",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-21",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-20",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-19",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-18",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-17",
+     "cv": 0
+    }
+   ],
+   "rankCv": [
+    {
+     "rank": 1,
+     "cv": 0,
+     "title": "",
+     "logNo": "",
+     "createDate": ""
+    }
+   ],
+   "referer": [
+    {
+     "name": "",
+     "cv": 0,
+     "pct": 0
+    }
+   ],
+   "searchQueries": []
+  },
+  "yesterday": {
+   "date": "2026-10-30",
+   "utime": "2026-10-31T16:20:45",
+   "dashboard": {
+    "dailyComment": 0,
+    "dailyPlayCount": "0",
+    "dailyCv": 0,
+    "dailyLike": 0,
+    "dailyCommentUtime": "2026-10-31T16:20:45",
+    "dailyRelationDeltaUtime": "2026-10-31T16:20:45",
+    "dailyRelationDelta": 0,
+    "isToday": false,
+    "dailyLikeUtime": "2026-10-31T16:20:45",
+    "dailyCvUtime": "2026-10-31T16:20:45"
+   },
+   "dailyCv": [
+    {
+     "date": "2026-10-30",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-29",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-28",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-27",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-26",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-25",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-24",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-23",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-22",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-21",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-20",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-19",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-18",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-17",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-16",
+     "cv": 0
+    }
+   ],
+   "rankCv": [
+    {
+     "rank": 1,
+     "cv": 0,
+     "title": "",
+     "logNo": "",
+     "createDate": ""
+    }
+   ],
+   "referer": [
+    {
+     "name": "",
+     "cv": 0,
+     "pct": 0
+    }
+   ],
+   "searchQueries": []
+  }
+ },
+ "games": {
+  "count": {},
+  "target": {
+   "인테리어": 40,
+   "가구": 30,
+   "살림": 30
+  },
+  "fields": [
+   "인테리어",
+   "가구",
+   "살림"
+  ]
+ },
+ "rankHistory": [],
+ "mobileRankHistory": [],
+ "aiCited": [],
+ "routines": [],
+ "ops": {
+  "relatedLinksPending": [],
+  "priceUpdates": [],
+  "notes": []
+ },
+ "revenue": {
+  "shopConnect": {
+   "total": {
+    "salesConversionRate": 0,
+    "accessCnt": 0,
+    "productOrderCnt": 0,
+    "salesCnt": 0,
+    "salesAmount": 0,
+    "commissionAmount": 0
+   },
+   "daily": [
+    {
+     "date": "2026-10-30",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-29",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-28",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-27",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-26",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-25",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-24",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-23",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-22",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-21",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-20",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-19",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-18",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-17",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-10-16",
+     "access": 0,
+     "sales": 0
+    }
+   ],
+   "products": [],
+   "productCount": 0
+  },
+  "adpost": null,
+  "mate": {
+   "month": 10,
+   "count": 0,
+   "day": 31,
+   "daysInMonth": 31,
+   "pace": 0,
+   "projected": 0,
+   "ref": 120000,
+   "selectionMonth": 12
+  },
+  "at": "2026-10-31T07:20:45.386Z"
+ },
+ "loginOk": true,
+ "preflight": "ok",
+ "indexing": {
+  "at": "2026-10-31T07:20:45.409Z",
+  "checked": 0,
+  "indexed": 0,
+  "notIndexed": 0,
+  "unknown": 0,
+  "ratio48": null,
+  "missing48": [],
+  "dropped": []
+ },
+ "perf": {
+  "at": "2026-10-31T07:20:45.416Z",
+  "rpm7": null,
+  "logDays": 1,
+  "base7Date": null,
+  "rows": [],
+  "counts": {
+   "top": 0,
+   "low": 0,
+   "noindex": 0,
+   "mid": 0
+  }
+ },
+ "kw": null,
+ "todos": [
+  {
+   "level": "info",
+   "type": "slots",
+   "title": "예약 빈 슬롯 (3일)",
+   "text": "11/1 0/2 · 11/2 0/2 · 11/3 0/2 · 신규 글 루틴이 채움",
+   "action": {
+    "label": "새 글 1개 요청",
+    "preset": 5
+   }
+  }
+ ],
+ "taskSlots": [
+  "12:30",
+  "15:30",
+  "18:30",
+  "21:30"
+ ],
+ "collectSlots": [
+  "08:00",
+  "13:00"
+ ]
+}
