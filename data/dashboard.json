@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-10-31T09:05:50.000Z",
- "collectedAtText": "2026-10-31 18:05",
+ "collectedAt": "2026-10-31T09:52:56.911Z",
+ "collectedAtText": "2026-10-31 18:52",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,12 +8,12 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 8335,
+ "elapsedMs": 8696,
  "errors": [],
  "summary": {
   "publicCount": 0,
-  "queueCount": 2,
-  "totalCount": 2,
+  "queueCount": 6,
+  "totalCount": 6,
   "todayCv": 0,
   "yesterdayCv": 0,
   "todayVisitor": 0,
@@ -75,6 +75,90 @@
    "priceUpdate": null,
    "rank": null,
    "aiCited": false
+  },
+  {
+   "no": 3,
+   "logNo": "224460319594",
+   "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
+   "status": "예약",
+   "game": "가구",
+   "category": "가구 고르는 법",
+   "keyword": "침대 사이즈 종류",
+   "publishedText": "2026-11-02 08:40",
+   "postDate": 1793576400000,
+   "url": "https://blog.naver.com/mongchaeng_living/224460319594",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  },
+  {
+   "no": 4,
+   "logNo": "224460322424",
+   "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
+   "status": "예약",
+   "game": "인테리어",
+   "category": "우리집 인테리어",
+   "keyword": "결로 현상",
+   "publishedText": "2026-11-02 20:20",
+   "postDate": 1793618400000,
+   "url": "https://blog.naver.com/mongchaeng_living/224460322424",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  },
+  {
+   "no": 5,
+   "logNo": "224460323291",
+   "title": "옷정리 방법 4단계, 계절 옷 정리는 세탁부터 시작해요",
+   "status": "예약",
+   "game": "살림",
+   "category": "정리수납",
+   "keyword": "계절 옷 정리",
+   "publishedText": "2026-11-03 08:10",
+   "postDate": 1793661000000,
+   "url": "https://blog.naver.com/mongchaeng_living/224460323291",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  },
+  {
+   "no": 6,
+   "logNo": "224460324162",
+   "title": "대형폐기물 신고로 가구 버리는 방법, 스티커까지 3단계예요",
+   "status": "예약",
+   "game": "살림",
+   "category": "정리수납",
+   "keyword": "가구 버리는 방법",
+   "publishedText": "2026-11-03 20:30",
+   "postDate": 1793705400000,
+   "url": "https://blog.naver.com/mongchaeng_living/224460324162",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
   }
  ],
  "queue": [
@@ -91,6 +175,34 @@
    "postDate": 1793533200000,
    "postDateText": "2026-11-01 20:40",
    "addDate": 1793437511017
+  },
+  {
+   "logNo": "224460319594",
+   "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
+   "postDate": 1793576400000,
+   "postDateText": "2026-11-02 08:40",
+   "addDate": 1793439913340
+  },
+  {
+   "logNo": "224460322424",
+   "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
+   "postDate": 1793618400000,
+   "postDateText": "2026-11-02 20:20",
+   "addDate": 1793440156665
+  },
+  {
+   "logNo": "224460323291",
+   "title": "옷정리 방법 4단계, 계절 옷 정리는 세탁부터 시작해요",
+   "postDate": 1793661000000,
+   "postDateText": "2026-11-03 08:10",
+   "addDate": 1793440231037
+  },
+  {
+   "logNo": "224460324162",
+   "title": "대형폐기물 신고로 가구 버리는 방법, 스티커까지 3단계예요",
+   "postDate": 1793705400000,
+   "postDateText": "2026-11-03 20:30",
+   "addDate": 1793440303039
   }
  ],
  "comments": [],
@@ -204,18 +316,18 @@
   ],
   "today": {
    "date": "2026-10-31",
-   "utime": "2026-10-31T18:05:49",
+   "utime": "2026-10-31T18:52:56",
    "dashboard": {
     "dailyComment": 0,
     "dailyPlayCount": "0",
     "dailyCv": 0,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-10-31T18:05:49",
-    "dailyRelationDeltaUtime": "2026-10-31T18:05:49",
+    "dailyCommentUtime": "2026-10-31T18:52:56",
+    "dailyRelationDeltaUtime": "2026-10-31T18:52:56",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-10-31T18:05:49",
-    "dailyCvUtime": "2026-10-31T18:05:49"
+    "dailyLikeUtime": "2026-10-31T18:52:56",
+    "dailyCvUtime": "2026-10-31T18:52:56"
    },
    "dailyCv": [
     {
@@ -299,18 +411,18 @@
   },
   "yesterday": {
    "date": "2026-10-30",
-   "utime": "2026-10-31T16:20:45",
+   "utime": "2026-10-31T18:52:56",
    "dashboard": {
     "dailyComment": 0,
     "dailyPlayCount": "0",
     "dailyCv": 0,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-10-31T16:20:45",
-    "dailyRelationDeltaUtime": "2026-10-31T16:20:45",
+    "dailyCommentUtime": "2026-10-31T18:52:57",
+    "dailyRelationDeltaUtime": "2026-10-31T18:52:57",
     "dailyRelationDelta": 0,
     "isToday": false,
-    "dailyLikeUtime": "2026-10-31T16:20:45",
-    "dailyCvUtime": "2026-10-31T16:20:45"
+    "dailyLikeUtime": "2026-10-31T18:52:57",
+    "dailyCvUtime": "2026-10-31T18:52:57"
    },
    "dailyCv": [
     {
@@ -395,8 +507,9 @@
  },
  "games": {
   "count": {
-   "인테리어": 1,
-   "가구": 1
+   "인테리어": 2,
+   "가구": 2,
+   "살림": 2
   },
   "target": {
    "인테리어": 40,
@@ -531,13 +644,13 @@
    "ref": 120000,
    "selectionMonth": 12
   },
-  "at": "2026-10-31T09:05:50.000Z"
+  "at": "2026-10-31T09:52:56.911Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-10-31T09:05:50.009Z",
+  "at": "2026-10-31T09:52:56.919Z",
   "rpm7": null,
   "logDays": 1,
   "base7Date": null,
@@ -549,27 +662,79 @@
    "mid": 0
   }
  },
- "kw": null,
- "todos": [
-  {
-   "level": "info",
-   "type": "slots",
-   "title": "예약 빈 슬롯 (2일)",
-   "text": "11/2 0/2 · 11/3 0/2 · 신규 글 루틴이 채움",
-   "action": {
-    "label": "새 글 1개 요청",
-    "preset": 5
+ "kw": {
+  "mapAt": "2026-10-31T09:21:30.415Z",
+  "expand": [
+   {
+    "kw": "러그세탁",
+    "total": 1830,
+    "game": "인테리어",
+    "score": 33,
+    "aib": true,
+    "blogs": 0,
+    "near": null,
+    "pick": true
+   },
+   {
+    "kw": "매트리스",
+    "total": 160300,
+    "game": "가구",
+    "score": 52,
+    "aib": null,
+    "blogs": null,
+    "near": null,
+    "pick": false
+   },
+   {
+    "kw": "보조배터리",
+    "total": 173900,
+    "game": "기타",
+    "score": 52,
+    "aib": null,
+    "blogs": null,
+    "near": null,
+    "pick": false
+   },
+   {
+    "kw": "전기장판",
+    "total": 141000,
+    "game": "기타",
+    "score": 51,
+    "aib": null,
+    "blogs": null,
+    "near": null,
+    "pick": false
+   },
+   {
+    "kw": "탄소매트",
+    "total": 131300,
+    "game": "기타",
+    "score": 51,
+    "aib": null,
+    "blogs": null,
+    "near": null,
+    "pick": false
+   },
+   {
+    "kw": "세탁소",
+    "total": 124680,
+    "game": "살림",
+    "score": 51,
+    "aib": null,
+    "blogs": null,
+    "near": null,
+    "pick": false
    }
-  }
- ],
+  ],
+  "retarget": [],
+  "retargetTotal": 0,
+  "expandTotal": 7810
+ },
+ "todos": [],
  "taskSlots": [
-  "12:30",
-  "15:30",
-  "18:30",
-  "21:30"
+  "21:40"
  ],
  "collectSlots": [
-  "08:00",
-  "13:00"
+  "21:40"
  ]
 }
