@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-10-31T09:52:56.911Z",
- "collectedAtText": "2026-10-31 18:52",
+ "collectedAt": "2026-11-01T12:40:30.258Z",
+ "collectedAtText": "2026-11-01 21:40",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,73 +8,97 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 8696,
+ "elapsedMs": 10156,
  "errors": [],
  "summary": {
-  "publicCount": 0,
-  "queueCount": 6,
+  "publicCount": 2,
+  "queueCount": 4,
   "totalCount": 6,
-  "todayCv": 0,
+  "todayCv": 20,
   "yesterdayCv": 0,
-  "todayVisitor": 0,
+  "todayVisitor": 20,
   "buddyCount": 1,
   "citations": {
    "cumulative": 0,
    "month": 0,
    "selectionPeriod": 0,
-   "currentMonth": 10,
-   "selectionPeriodMonth": 8
+   "currentMonth": 11,
+   "selectionPeriodMonth": 9
   },
-  "unansweredComments": 0,
-  "totalComments": 0,
-  "v5Pending": 0,
+  "unansweredComments": 1,
+  "totalComments": 1,
+  "v5Pending": 2,
   "probeFail": 0,
   "searchOff": 0,
-  "totalReadCount": 0
+  "totalReadCount": 20
  },
- "alerts": [],
+ "alerts": [
+  {
+   "level": "warn",
+   "type": "v5",
+   "logNo": "224460288132",
+   "text": "v5 레이아웃 미적용: #1 방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요"
+  },
+  {
+   "level": "warn",
+   "type": "v5",
+   "logNo": "224460289472",
+   "text": "v5 레이아웃 미적용: #2 소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요"
+  },
+  {
+   "level": "warn",
+   "type": "comment",
+   "text": "미답변 댓글 1건"
+  }
+ ],
  "posts": [
   {
    "no": 1,
    "logNo": "224460288132",
    "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
-   "status": "예약",
+   "status": "공개",
    "game": "인테리어",
    "category": "우리집 인테리어",
    "keyword": "방한커튼 효과",
    "publishedText": "2026-11-01 08:20",
-   "postDate": 1793488800000,
    "url": "https://blog.naver.com/mongchaeng_living/224460288132",
-   "searchYn": null,
-   "readCount": 0,
-   "commentCount": 0,
-   "unanswered": 0,
+   "openType": "2",
+   "searchYn": true,
+   "readCount": 20,
+   "commentCount": 1,
+   "unanswered": 1,
    "v5": false,
+   "internalLinks": 13,
+   "imgs": 9,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 2,
    "logNo": "224460289472",
    "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
-   "status": "예약",
+   "status": "공개",
    "game": "가구",
    "category": "가구 고르는 법",
    "keyword": "소파 사이즈 고르는 법",
    "publishedText": "2026-11-01 20:40",
-   "postDate": 1793533200000,
    "url": "https://blog.naver.com/mongchaeng_living/224460289472",
-   "searchYn": null,
+   "openType": "2",
+   "searchYn": true,
    "readCount": 0,
    "commentCount": 0,
    "unanswered": 0,
    "v5": false,
+   "internalLinks": 13,
+   "imgs": 8,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 3,
@@ -163,20 +187,6 @@
  ],
  "queue": [
   {
-   "logNo": "224460288132",
-   "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
-   "postDate": 1793488800000,
-   "postDateText": "2026-11-01 08:20",
-   "addDate": 1793437410208
-  },
-  {
-   "logNo": "224460289472",
-   "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
-   "postDate": 1793533200000,
-   "postDateText": "2026-11-01 20:40",
-   "addDate": 1793437511017
-  },
-  {
    "logNo": "224460319594",
    "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
    "postDate": 1793576400000,
@@ -205,9 +215,31 @@
    "addDate": 1793440303039
   }
  ],
- "comments": [],
+ "comments": [
+  {
+   "logNo": "224460288132",
+   "commentNo": "909277334446538979",
+   "parentCommentNo": "909277334446538979",
+   "replyLevel": 1,
+   "userName": "바이픽",
+   "contents": "커튼만 쳤을 때 절감이 1.4%밖에 안 된다는 건 진짜 의외네요ㅎㅎ 결국 틈부터 막아야 하는 거였군요. 폭 1.8배 팁도 기억해둘게요!",
+   "regTime": "2026-11-01T15:41:48+0900",
+   "mine": false,
+   "replyCount": 0,
+   "deleted": false,
+   "secret": false,
+   "unanswered": true
+  }
+ ],
  "stats": {
   "dailyCv": [
+   {
+    "date": "2026-11-01",
+    "total": 20,
+    "friend": 1,
+    "follow": 0,
+    "etc": 19
+   },
    {
     "date": "2026-10-31",
     "total": 0,
@@ -305,29 +337,168 @@
     "friend": 0,
     "follow": 0,
     "etc": 0
-   },
-   {
-    "date": "2026-10-17",
-    "total": 0,
-    "friend": 0,
-    "follow": 0,
-    "etc": 0
    }
   ],
   "today": {
+   "date": "2026-11-01",
+   "utime": "2026-11-01T21:40:27",
+   "dashboard": {
+    "dailyComment": 1,
+    "dailyPlayCount": "0",
+    "dailyCv": 20,
+    "dailyLike": 0,
+    "dailyCommentUtime": "2026-11-01T21:40:28",
+    "dailyRelationDeltaUtime": "2026-11-01T21:40:28",
+    "dailyRelationDelta": 0,
+    "isToday": true,
+    "dailyLikeUtime": "2026-11-01T21:40:28",
+    "dailyCvUtime": "2026-11-01T21:40:28"
+   },
+   "dailyCv": [
+    {
+     "date": "2026-11-01",
+     "cv": 20
+    },
+    {
+     "date": "2026-10-31",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-30",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-29",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-28",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-27",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-26",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-25",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-24",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-23",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-22",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-21",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-20",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-19",
+     "cv": 0
+    },
+    {
+     "date": "2026-10-18",
+     "cv": 0
+    }
+   ],
+   "rankCv": [
+    {
+     "rank": 1,
+     "cv": 20,
+     "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
+     "logNo": "224460288132",
+     "createDate": "2026.11.01. 08:20"
+    }
+   ],
+   "referer": [
+    {
+     "name": "네이버 통합검색_모바일",
+     "cv": 16,
+     "pct": 84.2
+    },
+    {
+     "name": "mongchaeng.github.io",
+     "cv": 2,
+     "pct": 10.5
+    },
+    {
+     "name": "네이버 메인_PC",
+     "cv": 1,
+     "pct": 5.3
+    }
+   ],
+   "searchQueries": [
+    {
+     "query": "방한커튼",
+     "cv": 7,
+     "pct": 43.8
+    },
+    {
+     "query": "바람막이 원단 커튼 셀프",
+     "cv": 2,
+     "pct": 12.5
+    },
+    {
+     "query": "암막커튼 방한 효과",
+     "cv": 2,
+     "pct": 12.5
+    },
+    {
+     "query": "겨울 실내 방한",
+     "cv": 1,
+     "pct": 6.3
+    },
+    {
+     "query": "겨울 창문 방한",
+     "cv": 1,
+     "pct": 6.3
+    },
+    {
+     "query": "방한커튼 효과",
+     "cv": 1,
+     "pct": 6.3
+    },
+    {
+     "query": "외풍 커튼",
+     "cv": 1,
+     "pct": 6.3
+    },
+    {
+     "query": "창문 방한 커튼",
+     "cv": 1,
+     "pct": 6.3
+    }
+   ]
+  },
+  "yesterday": {
    "date": "2026-10-31",
-   "utime": "2026-10-31T18:52:56",
+   "utime": "2026-11-01T21:40:28",
    "dashboard": {
     "dailyComment": 0,
     "dailyPlayCount": "0",
     "dailyCv": 0,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-10-31T18:52:56",
-    "dailyRelationDeltaUtime": "2026-10-31T18:52:56",
+    "dailyCommentUtime": "2026-11-01T21:40:28",
+    "dailyRelationDeltaUtime": "2026-11-01T21:40:28",
     "dailyRelationDelta": 0,
-    "isToday": true,
-    "dailyLikeUtime": "2026-10-31T18:52:56",
-    "dailyCvUtime": "2026-10-31T18:52:56"
+    "isToday": false,
+    "dailyLikeUtime": "2026-11-01T21:40:28",
+    "dailyCvUtime": "2026-11-01T21:40:28"
    },
    "dailyCv": [
     {
@@ -408,101 +579,6 @@
     }
    ],
    "searchQueries": []
-  },
-  "yesterday": {
-   "date": "2026-10-30",
-   "utime": "2026-10-31T18:52:56",
-   "dashboard": {
-    "dailyComment": 0,
-    "dailyPlayCount": "0",
-    "dailyCv": 0,
-    "dailyLike": 0,
-    "dailyCommentUtime": "2026-10-31T18:52:57",
-    "dailyRelationDeltaUtime": "2026-10-31T18:52:57",
-    "dailyRelationDelta": 0,
-    "isToday": false,
-    "dailyLikeUtime": "2026-10-31T18:52:57",
-    "dailyCvUtime": "2026-10-31T18:52:57"
-   },
-   "dailyCv": [
-    {
-     "date": "2026-10-30",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-29",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-28",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-27",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-26",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-25",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-24",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-23",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-22",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-21",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-20",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-19",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-18",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-17",
-     "cv": 0
-    },
-    {
-     "date": "2026-10-16",
-     "cv": 0
-    }
-   ],
-   "rankCv": [
-    {
-     "rank": 1,
-     "cv": 0,
-     "title": "",
-     "logNo": "",
-     "createDate": ""
-    }
-   ],
-   "referer": [
-    {
-     "name": "",
-     "cv": 0,
-     "pct": 0
-    }
-   ],
-   "searchQueries": []
   }
  },
  "games": {
@@ -532,7 +608,7 @@
    "role": "collect",
    "status": "active",
    "rrule": "DTSTART;TZID=Asia/Seoul:20261101T214000\nRRULE:FREQ=DAILY;BYHOUR=21;BYMINUTE=40",
-   "nextRunAt": "2026-11-01T12:40:00.000Z",
+   "nextRunAt": "2026-11-02T12:40:00.000Z",
    "last": null,
    "missed": false,
    "maxGapH": 24
@@ -546,7 +622,7 @@
  "revenue": {
   "shopConnect": {
    "total": {
-    "salesConversionRate": 0,
+    "salesConversionRate": null,
     "accessCnt": 0,
     "productOrderCnt": 0,
     "salesCnt": 0,
@@ -554,6 +630,11 @@
     "commissionAmount": 0
    },
    "daily": [
+    {
+     "date": "2026-10-31",
+     "access": 0,
+     "sales": 0
+    },
     {
      "date": "2026-10-30",
      "access": 0,
@@ -623,11 +704,6 @@
      "date": "2026-10-17",
      "access": 0,
      "sales": 0
-    },
-    {
-     "date": "2026-10-16",
-     "access": 0,
-     "sales": 0
     }
    ],
    "products": [],
@@ -635,28 +711,65 @@
   },
   "adpost": null,
   "mate": {
-   "month": 10,
+   "month": 11,
    "count": 0,
-   "day": 31,
-   "daysInMonth": 31,
+   "day": 1,
+   "daysInMonth": 30,
    "pace": 0,
    "projected": 0,
    "ref": 120000,
-   "selectionMonth": 12
+   "selectionMonth": 1
   },
-  "at": "2026-10-31T09:52:56.911Z"
+  "at": "2026-11-01T12:40:30.258Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-10-31T09:52:56.919Z",
+  "at": "2026-11-01T12:40:30.289Z",
   "rpm7": null,
-  "logDays": 1,
+  "logDays": 2,
   "base7Date": null,
-  "rows": [],
+  "rows": [
+   {
+    "logNo": "224460288132",
+    "no": 1,
+    "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
+    "game": "인테리어",
+    "keyword": "방한커튼 효과",
+    "ageD": 1,
+    "views": 20,
+    "perDay": 20,
+    "v7": 20,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 1,
+    "grade": "top"
+   },
+   {
+    "logNo": "224460289472",
+    "no": 2,
+    "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
+    "game": "가구",
+    "keyword": "소파 사이즈 고르는 법",
+    "ageD": 1,
+    "views": 0,
+    "perDay": 0,
+    "v7": 0,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "top"
+   }
+  ],
   "counts": {
-   "top": 0,
+   "top": 2,
    "low": 0,
    "noindex": 0,
    "mid": 0
@@ -730,7 +843,34 @@
   "retargetTotal": 0,
   "expandTotal": 7810
  },
- "todos": [],
+ "todos": [
+  {
+   "level": "warn",
+   "type": "comment",
+   "title": "미답변 댓글 1건",
+   "text": "바이픽: 커튼만 쳤을 때 절감이 1.4%밖에 안 된다는 건 진짜 의외네요ㅎㅎ 결국",
+   "action": {
+    "label": "답글 요청",
+    "preset": 1
+   }
+  },
+  {
+   "level": "info",
+   "type": "slots",
+   "title": "예약 빈 슬롯 (1일)",
+   "text": "11/4 0/2 · 신규 글 루틴이 채움",
+   "action": {
+    "label": "새 글 1개 요청",
+    "preset": 5
+   }
+  },
+  {
+   "level": "info",
+   "type": "v5",
+   "title": "v5 레이아웃 미적용 2개",
+   "text": "#1 #2 · 일괄 수정 금지 규칙상 기록만"
+  }
+ ],
  "taskSlots": [
   "21:40"
  ],
