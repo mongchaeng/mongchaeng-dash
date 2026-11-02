@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-11-02T07:24:04.988Z",
- "collectedAtText": "2026-11-02 16:24",
+ "collectedAt": "2026-11-02T14:08:13.307Z",
+ "collectedAtText": "2026-11-02 23:08",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,15 +8,15 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 8631,
+ "elapsedMs": 8389,
  "errors": [],
  "summary": {
-  "publicCount": 3,
-  "queueCount": 7,
+  "publicCount": 4,
+  "queueCount": 6,
   "totalCount": 10,
-  "todayCv": 66,
+  "todayCv": 106,
   "yesterdayCv": 23,
-  "todayVisitor": 66,
+  "todayVisitor": 106,
   "buddyCount": 1,
   "citations": {
    "cumulative": 18,
@@ -25,14 +25,20 @@
    "currentMonth": 11,
    "selectionPeriodMonth": 9
   },
-  "unansweredComments": 0,
-  "totalComments": 1,
+  "unansweredComments": 1,
+  "totalComments": 2,
   "v5Pending": 0,
   "probeFail": 0,
   "searchOff": 0,
-  "totalReadCount": 89
+  "totalReadCount": 129
  },
- "alerts": [],
+ "alerts": [
+  {
+   "level": "warn",
+   "type": "comment",
+   "text": "미답변 댓글 1건"
+  }
+ ],
  "posts": [
   {
    "no": 1,
@@ -46,7 +52,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460288132",
    "openType": "2",
    "searchYn": true,
-   "readCount": 30,
+   "readCount": 31,
    "commentCount": 2,
    "unanswered": 0,
    "v5": true,
@@ -70,7 +76,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460289472",
    "openType": "2",
    "searchYn": true,
-   "readCount": 5,
+   "readCount": 8,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -94,7 +100,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460319594",
    "openType": "2",
    "searchYn": true,
-   "readCount": 54,
+   "readCount": 88,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -110,22 +116,25 @@
    "no": 4,
    "logNo": "224460322424",
    "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
-   "status": "예약",
+   "status": "공개",
    "game": "인테리어",
    "category": "우리집 인테리어",
    "keyword": "결로 현상",
    "publishedText": "2026-11-02 20:20",
-   "postDate": 1793618400000,
    "url": "https://blog.naver.com/mongchaeng_living/224460322424",
-   "searchYn": null,
-   "readCount": 0,
-   "commentCount": 0,
-   "unanswered": 0,
-   "v5": false,
+   "openType": "2",
+   "searchYn": true,
+   "readCount": 2,
+   "commentCount": 1,
+   "unanswered": 1,
+   "v5": true,
+   "internalLinks": 15,
+   "imgs": 10,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 5,
@@ -256,13 +265,6 @@
  ],
  "queue": [
   {
-   "logNo": "224460322424",
-   "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
-   "postDate": 1793618400000,
-   "postDateText": "2026-11-02 20:20",
-   "addDate": 1793440156665
-  },
-  {
    "logNo": "224460323291",
    "title": "옷정리 방법 4단계, 계절 옷 정리는 세탁부터 시작해요",
    "postDate": 1793661000000,
@@ -307,6 +309,20 @@
  ],
  "comments": [
   {
+   "logNo": "224460322424",
+   "commentNo": "909392230039420994",
+   "parentCommentNo": "909392230039420994",
+   "replyLevel": 1,
+   "userName": "씨엘어닝방풍막",
+   "contents": "결로 현상의 원인과 해결 방법까지 상세하게 알려주셔서 정말 도움이 많이 됐어요! 행복한 하루 보내세요 ㅋㅋㅋ<br>또 올께요",
+   "regTime": "2026-11-02T21:25:13+0900",
+   "mine": false,
+   "replyCount": 0,
+   "deleted": false,
+   "secret": false,
+   "unanswered": true
+  },
+  {
    "logNo": "224460288132",
    "commentNo": "909372767730663459",
    "parentCommentNo": "909277334446538979",
@@ -339,10 +355,10 @@
   "dailyCv": [
    {
     "date": "2026-11-02",
-    "total": 66,
+    "total": 106,
     "friend": 1,
     "follow": 0,
-    "etc": 65
+    "etc": 105
    },
    {
     "date": "2026-11-01",
@@ -445,23 +461,23 @@
   ],
   "today": {
    "date": "2026-11-02",
-   "utime": "2026-11-02T16:24:03",
+   "utime": "2026-11-02T23:08:11",
    "dashboard": {
-    "dailyComment": 1,
+    "dailyComment": 2,
     "dailyPlayCount": "0",
-    "dailyCv": 66,
+    "dailyCv": 106,
     "dailyLike": 1,
-    "dailyCommentUtime": "2026-11-02T16:24:03",
-    "dailyRelationDeltaUtime": "2026-11-02T16:24:03",
+    "dailyCommentUtime": "2026-11-02T23:08:12",
+    "dailyRelationDeltaUtime": "2026-11-02T23:08:12",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-11-02T16:24:03",
-    "dailyCvUtime": "2026-11-02T16:24:03"
+    "dailyLikeUtime": "2026-11-02T23:08:12",
+    "dailyCvUtime": "2026-11-02T23:08:12"
    },
    "dailyCv": [
     {
      "date": "2026-11-02",
-     "cv": 66
+     "cv": 106
     },
     {
      "date": "2026-11-01",
@@ -523,170 +539,182 @@
    "rankCv": [
     {
      "rank": 1,
-     "cv": 54,
+     "cv": 88,
      "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
      "logNo": "224460319594",
      "createDate": "2026.11.02. 08:40"
     },
     {
      "rank": 2,
-     "cv": 9,
+     "cv": 10,
      "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
      "logNo": "224460288132",
      "createDate": "2026.11.01. 08:20"
     },
     {
      "rank": 3,
-     "cv": 3,
+     "cv": 6,
      "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
      "logNo": "224460289472",
      "createDate": "2026.11.01. 20:40"
+    },
+    {
+     "rank": 4,
+     "cv": 2,
+     "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
+     "logNo": "224460322424",
+     "createDate": "2026.11.02. 20:20"
     }
    ],
    "referer": [
     {
      "name": "네이버 통합검색_모바일",
-     "cv": 45,
-     "pct": 70.3
+     "cv": 82,
+     "pct": 78.8
     },
     {
      "name": "네이버 통합검색_PC",
-     "cv": 16,
-     "pct": 25
+     "cv": 18,
+     "pct": 17.3
     },
     {
      "name": "mongchaeng.github.io",
      "cv": 1,
-     "pct": 1.6
+     "pct": 1
     },
     {
      "name": "네이버 메인_PC",
      "cv": 1,
-     "pct": 1.6
+     "pct": 1
+    },
+    {
+     "name": "네이버 블로그_모바일",
+     "cv": 1,
+     "pct": 1
     },
     {
      "name": "네이버 블로그검색_PC",
      "cv": 1,
-     "pct": 1.6
+     "pct": 1
     }
    ],
    "searchQueries": [
     {
      "query": "시몬스 라지킹 사이즈",
-     "cv": 5,
-     "pct": 11.1
+     "cv": 9,
+     "pct": 11
+    },
+    {
+     "query": "에이스침대 라지킹 사이즈",
+     "cv": 4,
+     "pct": 4.9
+    },
+    {
+     "query": "수퍼싱글 사이즈",
+     "cv": 3,
+     "pct": 3.7
     },
     {
      "query": "슈퍼싱글 사이즈 cm",
+     "cv": 3,
+     "pct": 3.7
+    },
+    {
+     "query": "시몬스 침대 사이즈",
+     "cv": 3,
+     "pct": 3.7
+    },
+    {
+     "query": "슈퍼싱글 프레임",
      "cv": 2,
-     "pct": 4.4
+     "pct": 2.4
     },
     {
      "query": "시몬스 매트리스 종류",
      "cv": 2,
-     "pct": 4.4
-    },
-    {
-     "query": "시몬스 침대 사이즈",
-     "cv": 2,
-     "pct": 4.4
+     "pct": 2.4
     },
     {
      "query": "시몬스 킹사이즈",
      "cv": 2,
-     "pct": 4.4
+     "pct": 2.4
+    },
+    {
+     "query": "에이스 라지킹 사이즈",
+     "cv": 2,
+     "pct": 2.4
     },
     {
      "query": "에이스침대 슈퍼킹 사이즈",
      "cv": 2,
-     "pct": 4.4
+     "pct": 2.4
+    },
+    {
+     "query": "침대 슈퍼싱글 사이즈 cm",
+     "cv": 2,
+     "pct": 2.4
     },
     {
      "query": "3도 커튼",
      "cv": 1,
-     "pct": 2.2
+     "pct": 1.2
+    },
+    {
+     "query": "거실 커튼 난방 방한",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "더블 침대 프레임 사이즈",
+     "cv": 1,
+     "pct": 1.2
     },
     {
      "query": "라지킹 매트리스 사이즈",
      "cv": 1,
-     "pct": 2.2
+     "pct": 1.2
     },
     {
      "query": "라지킹 슈퍼킹",
      "cv": 1,
-     "pct": 2.2
+     "pct": 1.2
+    },
+    {
+     "query": "매트리스 싱글과 슈퍼싱글 차이",
+     "cv": 1,
+     "pct": 1.2
     },
     {
      "query": "방한 커튼 곰팡이",
      "cv": 1,
-     "pct": 2.2
+     "pct": 1.2
     },
     {
      "query": "방한커튼 문풍지",
      "cv": 1,
-     "pct": 2.2
+     "pct": 1.2
     },
     {
      "query": "방한커튼 실내온도",
      "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "수퍼싱글 사이즈",
-     "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "슈퍼싱글 매트리스 사이즈",
-     "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "시몬스 lk",
-     "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "시몬스 슈퍼싱글 사이즈",
-     "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "시몬스 슈퍼싱글침대",
-     "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "시몬스 싱글침대 사이즈",
-     "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "시몬스라지킹",
-     "cv": 1,
-     "pct": 2.2
-    },
-    {
-     "query": "시몬스침대 슈퍼싱글 매트리스",
-     "cv": 1,
-     "pct": 2.2
+     "pct": 1.2
     }
    ]
   },
   "yesterday": {
    "date": "2026-11-01",
-   "utime": "2026-11-02T15:55:44",
+   "utime": "2026-11-02T23:08:12",
    "dashboard": {
     "dailyComment": 1,
     "dailyPlayCount": "0",
     "dailyCv": 23,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-11-02T15:55:44",
-    "dailyRelationDeltaUtime": "2026-11-02T15:55:44",
+    "dailyCommentUtime": "2026-11-02T23:08:12",
+    "dailyRelationDeltaUtime": "2026-11-02T23:08:12",
     "dailyRelationDelta": 0,
     "isToday": false,
-    "dailyLikeUtime": "2026-11-02T15:55:44",
-    "dailyCvUtime": "2026-11-02T15:55:44"
+    "dailyLikeUtime": "2026-11-02T23:08:12",
+    "dailyCvUtime": "2026-11-02T23:08:12"
    },
    "dailyCv": [
     {
@@ -870,7 +898,7 @@
    "role": "collect",
    "status": "active",
    "rrule": "DTSTART;TZID=Asia/Seoul:20261101T214000\nRRULE:FREQ=DAILY;BYHOUR=21;BYMINUTE=40",
-   "nextRunAt": "2026-11-02T12:40:00.000Z",
+   "nextRunAt": "2026-11-03T12:40:00.000Z",
    "last": null,
    "missed": false,
    "maxGapH": 24
@@ -982,13 +1010,13 @@
    "ref": 120000,
    "selectionMonth": 1
   },
-  "at": "2026-11-02T07:24:04.988Z"
+  "at": "2026-11-02T14:08:13.307Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-11-02T07:24:05.004Z",
+  "at": "2026-11-02T14:08:13.320Z",
   "rpm7": null,
   "logDays": 3,
   "base7Date": null,
@@ -1000,9 +1028,9 @@
     "game": "가구",
     "keyword": "침대 사이즈 종류",
     "ageD": 1,
-    "views": 54,
-    "perDay": 54,
-    "v7": 54,
+    "views": 88,
+    "perDay": 88,
+    "v7": 88,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -1017,10 +1045,10 @@
     "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
     "game": "인테리어",
     "keyword": "방한커튼 효과",
-    "ageD": 1,
-    "views": 30,
-    "perDay": 22.5,
-    "v7": 30,
+    "ageD": 2,
+    "views": 31,
+    "perDay": 19.2,
+    "v7": 31,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -1036,9 +1064,9 @@
     "game": "가구",
     "keyword": "소파 사이즈 고르는 법",
     "ageD": 1,
-    "views": 5,
-    "perDay": 5,
-    "v7": 5,
+    "views": 8,
+    "perDay": 7.3,
+    "v7": 8,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -1046,10 +1074,28 @@
     "indexed": null,
     "comments": 0,
     "grade": "top"
+   },
+   {
+    "logNo": "224460322424",
+    "no": 4,
+    "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
+    "game": "인테리어",
+    "keyword": "결로 현상",
+    "ageD": 1,
+    "views": 2,
+    "perDay": 2,
+    "v7": 2,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 1,
+    "grade": "top"
    }
   ],
   "counts": {
-   "top": 3,
+   "top": 4,
    "low": 0,
    "noindex": 0,
    "mid": 0
@@ -1123,7 +1169,18 @@
   "retargetTotal": 0,
   "expandTotal": 7799
  },
- "todos": [],
+ "todos": [
+  {
+   "level": "warn",
+   "type": "comment",
+   "title": "미답변 댓글 1건",
+   "text": "씨엘어닝방풍막: 결로 현상의 원인과 해결 방법까지 상세하게 알려주셔서 정말 도움이 많이 ",
+   "action": {
+    "label": "답글 요청",
+    "preset": 1
+   }
+  }
+ ],
  "taskSlots": [
   "21:40"
  ],
