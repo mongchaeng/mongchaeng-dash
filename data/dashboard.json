@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-11-02T07:00:31.431Z",
- "collectedAtText": "2026-11-02 16:00",
+ "collectedAt": "2026-11-02T07:02:10.776Z",
+ "collectedAtText": "2026-11-02 16:02",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,7 +8,7 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 21566,
+ "elapsedMs": 15567,
  "errors": [],
  "summary": {
   "publicCount": 3,
@@ -27,30 +27,12 @@
   },
   "unansweredComments": 1,
   "totalComments": 1,
-  "v5Pending": 3,
+  "v5Pending": 0,
   "probeFail": 0,
   "searchOff": 0,
   "totalReadCount": 86
  },
  "alerts": [
-  {
-   "level": "warn",
-   "type": "v5",
-   "logNo": "224460288132",
-   "text": "v5 레이아웃 미적용: #1 방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요"
-  },
-  {
-   "level": "warn",
-   "type": "v5",
-   "logNo": "224460289472",
-   "text": "v5 레이아웃 미적용: #2 소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요"
-  },
-  {
-   "level": "warn",
-   "type": "v5",
-   "logNo": "224460319594",
-   "text": "v5 레이아웃 미적용: #3 침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요"
-  },
   {
    "level": "warn",
    "type": "comment",
@@ -73,7 +55,7 @@
    "readCount": 30,
    "commentCount": 1,
    "unanswered": 1,
-   "v5": false,
+   "v5": true,
    "internalLinks": 13,
    "imgs": 9,
    "relatedLinksPending": false,
@@ -97,7 +79,7 @@
    "readCount": 5,
    "commentCount": 0,
    "unanswered": 0,
-   "v5": false,
+   "v5": true,
    "internalLinks": 13,
    "imgs": 8,
    "relatedLinksPending": false,
@@ -121,7 +103,7 @@
    "readCount": 51,
    "commentCount": 0,
    "unanswered": 0,
-   "v5": false,
+   "v5": true,
    "internalLinks": 15,
    "imgs": 8,
    "relatedLinksPending": false,
@@ -343,18 +325,18 @@
   ],
   "today": {
    "date": "2026-11-02",
-   "utime": "2026-11-02T16:00:27",
+   "utime": "2026-11-02T16:02:07",
    "dashboard": {
     "dailyComment": 0,
     "dailyPlayCount": "0",
     "dailyCv": 63,
     "dailyLike": 1,
-    "dailyCommentUtime": "2026-11-02T16:00:28",
-    "dailyRelationDeltaUtime": "2026-11-02T16:00:28",
+    "dailyCommentUtime": "2026-11-02T16:02:07",
+    "dailyRelationDeltaUtime": "2026-11-02T16:02:07",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-11-02T16:00:27",
-    "dailyCvUtime": "2026-11-02T16:00:27"
+    "dailyLikeUtime": "2026-11-02T16:02:07",
+    "dailyCvUtime": "2026-11-02T16:02:07"
    },
    "dailyCv": [
     {
@@ -869,13 +851,13 @@
    "ref": 120000,
    "selectionMonth": 1
   },
-  "at": "2026-11-02T07:00:31.431Z"
+  "at": "2026-11-02T07:02:10.776Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-11-02T07:00:31.462Z",
+  "at": "2026-11-02T07:02:10.801Z",
   "rpm7": null,
   "logDays": 3,
   "base7Date": null,
@@ -1030,12 +1012,6 @@
     "label": "새 글 1개 요청",
     "preset": 5
    }
-  },
-  {
-   "level": "info",
-   "type": "v5",
-   "title": "v5 레이아웃 미적용 3개",
-   "text": "#1 #2 #3 · 일괄 수정 금지 규칙상 기록만"
   }
  ],
  "taskSlots": [
