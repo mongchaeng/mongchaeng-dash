@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-11-01T12:40:30.258Z",
- "collectedAtText": "2026-11-01 21:40",
+ "collectedAt": "2026-11-02T07:00:31.431Z",
+ "collectedAtText": "2026-11-02 16:00",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,29 +8,29 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 10156,
+ "elapsedMs": 21566,
  "errors": [],
  "summary": {
-  "publicCount": 2,
-  "queueCount": 4,
+  "publicCount": 3,
+  "queueCount": 3,
   "totalCount": 6,
-  "todayCv": 20,
-  "yesterdayCv": 0,
-  "todayVisitor": 20,
+  "todayCv": 63,
+  "yesterdayCv": 23,
+  "todayVisitor": 63,
   "buddyCount": 1,
   "citations": {
-   "cumulative": 0,
-   "month": 0,
+   "cumulative": 18,
+   "month": 18,
    "selectionPeriod": 0,
    "currentMonth": 11,
    "selectionPeriodMonth": 9
   },
   "unansweredComments": 1,
   "totalComments": 1,
-  "v5Pending": 2,
+  "v5Pending": 3,
   "probeFail": 0,
   "searchOff": 0,
-  "totalReadCount": 20
+  "totalReadCount": 86
  },
  "alerts": [
   {
@@ -44,6 +44,12 @@
    "type": "v5",
    "logNo": "224460289472",
    "text": "v5 레이아웃 미적용: #2 소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요"
+  },
+  {
+   "level": "warn",
+   "type": "v5",
+   "logNo": "224460319594",
+   "text": "v5 레이아웃 미적용: #3 침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요"
   },
   {
    "level": "warn",
@@ -64,7 +70,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460288132",
    "openType": "2",
    "searchYn": true,
-   "readCount": 20,
+   "readCount": 30,
    "commentCount": 1,
    "unanswered": 1,
    "v5": false,
@@ -88,7 +94,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460289472",
    "openType": "2",
    "searchYn": true,
-   "readCount": 0,
+   "readCount": 5,
    "commentCount": 0,
    "unanswered": 0,
    "v5": false,
@@ -104,22 +110,25 @@
    "no": 3,
    "logNo": "224460319594",
    "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
-   "status": "예약",
+   "status": "공개",
    "game": "가구",
    "category": "가구 고르는 법",
    "keyword": "침대 사이즈 종류",
    "publishedText": "2026-11-02 08:40",
-   "postDate": 1793576400000,
    "url": "https://blog.naver.com/mongchaeng_living/224460319594",
-   "searchYn": null,
-   "readCount": 0,
+   "openType": "2",
+   "searchYn": true,
+   "readCount": 51,
    "commentCount": 0,
    "unanswered": 0,
    "v5": false,
+   "internalLinks": 15,
+   "imgs": 8,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 4,
@@ -187,13 +196,6 @@
  ],
  "queue": [
   {
-   "logNo": "224460319594",
-   "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
-   "postDate": 1793576400000,
-   "postDateText": "2026-11-02 08:40",
-   "addDate": 1793439913340
-  },
-  {
    "logNo": "224460322424",
    "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
    "postDate": 1793618400000,
@@ -234,11 +236,18 @@
  "stats": {
   "dailyCv": [
    {
-    "date": "2026-11-01",
-    "total": 20,
+    "date": "2026-11-02",
+    "total": 63,
     "friend": 1,
     "follow": 0,
-    "etc": 19
+    "etc": 62
+   },
+   {
+    "date": "2026-11-01",
+    "total": 23,
+    "friend": 1,
+    "follow": 0,
+    "etc": 22
    },
    {
     "date": "2026-10-31",
@@ -330,34 +339,31 @@
     "friend": 0,
     "follow": 0,
     "etc": 0
-   },
-   {
-    "date": "2026-10-18",
-    "total": 0,
-    "friend": 0,
-    "follow": 0,
-    "etc": 0
    }
   ],
   "today": {
-   "date": "2026-11-01",
-   "utime": "2026-11-01T21:40:27",
+   "date": "2026-11-02",
+   "utime": "2026-11-02T16:00:27",
    "dashboard": {
-    "dailyComment": 1,
+    "dailyComment": 0,
     "dailyPlayCount": "0",
-    "dailyCv": 20,
-    "dailyLike": 0,
-    "dailyCommentUtime": "2026-11-01T21:40:28",
-    "dailyRelationDeltaUtime": "2026-11-01T21:40:28",
+    "dailyCv": 63,
+    "dailyLike": 1,
+    "dailyCommentUtime": "2026-11-02T16:00:28",
+    "dailyRelationDeltaUtime": "2026-11-02T16:00:28",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-11-01T21:40:28",
-    "dailyCvUtime": "2026-11-01T21:40:28"
+    "dailyLikeUtime": "2026-11-02T16:00:27",
+    "dailyCvUtime": "2026-11-02T16:00:27"
    },
    "dailyCv": [
     {
+     "date": "2026-11-02",
+     "cv": 63
+    },
+    {
      "date": "2026-11-01",
-     "cv": 20
+     "cv": 23
     },
     {
      "date": "2026-10-31",
@@ -410,97 +416,181 @@
     {
      "date": "2026-10-19",
      "cv": 0
-    },
-    {
-     "date": "2026-10-18",
-     "cv": 0
     }
    ],
    "rankCv": [
     {
      "rank": 1,
-     "cv": 20,
+     "cv": 51,
+     "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
+     "logNo": "224460319594",
+     "createDate": "2026.11.02. 08:40"
+    },
+    {
+     "rank": 2,
+     "cv": 9,
      "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
      "logNo": "224460288132",
      "createDate": "2026.11.01. 08:20"
+    },
+    {
+     "rank": 3,
+     "cv": 3,
+     "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
+     "logNo": "224460289472",
+     "createDate": "2026.11.01. 20:40"
     }
    ],
    "referer": [
     {
      "name": "네이버 통합검색_모바일",
+     "cv": 42,
+     "pct": 68.9
+    },
+    {
+     "name": "네이버 통합검색_PC",
      "cv": 16,
-     "pct": 84.2
+     "pct": 26.2
     },
     {
      "name": "mongchaeng.github.io",
-     "cv": 2,
-     "pct": 10.5
+     "cv": 1,
+     "pct": 1.6
     },
     {
      "name": "네이버 메인_PC",
      "cv": 1,
-     "pct": 5.3
+     "pct": 1.6
+    },
+    {
+     "name": "네이버 블로그검색_PC",
+     "cv": 1,
+     "pct": 1.6
     }
    ],
    "searchQueries": [
     {
-     "query": "방한커튼",
-     "cv": 7,
-     "pct": 43.8
+     "query": "시몬스 라지킹 사이즈",
+     "cv": 5,
+     "pct": 11.9
     },
     {
-     "query": "바람막이 원단 커튼 셀프",
+     "query": "슈퍼싱글 사이즈 cm",
      "cv": 2,
-     "pct": 12.5
+     "pct": 4.8
     },
     {
-     "query": "암막커튼 방한 효과",
+     "query": "시몬스 매트리스 종류",
      "cv": 2,
-     "pct": 12.5
+     "pct": 4.8
     },
     {
-     "query": "겨울 실내 방한",
-     "cv": 1,
-     "pct": 6.3
+     "query": "시몬스 침대 사이즈",
+     "cv": 2,
+     "pct": 4.8
     },
     {
-     "query": "겨울 창문 방한",
-     "cv": 1,
-     "pct": 6.3
+     "query": "에이스침대 슈퍼킹 사이즈",
+     "cv": 2,
+     "pct": 4.8
     },
     {
-     "query": "방한커튼 효과",
+     "query": "3도 커튼",
      "cv": 1,
-     "pct": 6.3
+     "pct": 2.4
     },
     {
-     "query": "외풍 커튼",
+     "query": "라지킹 매트리스 사이즈",
      "cv": 1,
-     "pct": 6.3
+     "pct": 2.4
     },
     {
-     "query": "창문 방한 커튼",
+     "query": "라지킹 슈퍼킹",
      "cv": 1,
-     "pct": 6.3
+     "pct": 2.4
+    },
+    {
+     "query": "방한 커튼 곰팡이",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "방한커튼 문풍지",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "방한커튼 실내온도",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "수퍼싱글 사이즈",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "슈퍼싱글 매트리스 사이즈",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "시몬스 lk",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "시몬스 슈퍼싱글 사이즈",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "시몬스 슈퍼싱글침대",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "시몬스 싱글침대 사이즈",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "시몬스 킹사이즈",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "시몬스라지킹",
+     "cv": 1,
+     "pct": 2.4
+    },
+    {
+     "query": "시몬스침대 슈퍼싱글 매트리스",
+     "cv": 1,
+     "pct": 2.4
     }
    ]
   },
   "yesterday": {
-   "date": "2026-10-31",
-   "utime": "2026-11-01T21:40:28",
+   "date": "2026-11-01",
+   "utime": "2026-11-02T15:55:44",
    "dashboard": {
-    "dailyComment": 0,
+    "dailyComment": 1,
     "dailyPlayCount": "0",
-    "dailyCv": 0,
+    "dailyCv": 23,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-11-01T21:40:28",
-    "dailyRelationDeltaUtime": "2026-11-01T21:40:28",
+    "dailyCommentUtime": "2026-11-02T15:55:44",
+    "dailyRelationDeltaUtime": "2026-11-02T15:55:44",
     "dailyRelationDelta": 0,
     "isToday": false,
-    "dailyLikeUtime": "2026-11-01T21:40:28",
-    "dailyCvUtime": "2026-11-01T21:40:28"
+    "dailyLikeUtime": "2026-11-02T15:55:44",
+    "dailyCvUtime": "2026-11-02T15:55:44"
    },
    "dailyCv": [
+    {
+     "date": "2026-11-01",
+     "cv": 23
+    },
     {
      "date": "2026-10-31",
      "cv": 0
@@ -556,29 +646,88 @@
     {
      "date": "2026-10-18",
      "cv": 0
-    },
-    {
-     "date": "2026-10-17",
-     "cv": 0
     }
    ],
    "rankCv": [
     {
      "rank": 1,
-     "cv": 0,
-     "title": "",
-     "logNo": "",
-     "createDate": ""
+     "cv": 21,
+     "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
+     "logNo": "224460288132",
+     "createDate": "2026.11.01. 08:20"
+    },
+    {
+     "rank": 2,
+     "cv": 2,
+     "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
+     "logNo": "224460289472",
+     "createDate": "2026.11.01. 20:40"
     }
    ],
    "referer": [
     {
-     "name": "",
-     "cv": 0,
-     "pct": 0
+     "name": "네이버 통합검색_모바일",
+     "cv": 19,
+     "pct": 86.4
+    },
+    {
+     "name": "mongchaeng.github.io",
+     "cv": 2,
+     "pct": 9.1
+    },
+    {
+     "name": "네이버 메인_PC",
+     "cv": 1,
+     "pct": 4.5
     }
    ],
-   "searchQueries": []
+   "searchQueries": [
+    {
+     "query": "방한커튼",
+     "cv": 8,
+     "pct": 42.1
+    },
+    {
+     "query": "바람막이 원단 커튼 셀프",
+     "cv": 2,
+     "pct": 10.5
+    },
+    {
+     "query": "소파",
+     "cv": 2,
+     "pct": 10.5
+    },
+    {
+     "query": "암막커튼 방한 효과",
+     "cv": 2,
+     "pct": 10.5
+    },
+    {
+     "query": "겨울 실내 방한",
+     "cv": 1,
+     "pct": 5.3
+    },
+    {
+     "query": "겨울 창문 방한",
+     "cv": 1,
+     "pct": 5.3
+    },
+    {
+     "query": "방한커튼 효과",
+     "cv": 1,
+     "pct": 5.3
+    },
+    {
+     "query": "외풍 커튼",
+     "cv": 1,
+     "pct": 5.3
+    },
+    {
+     "query": "창문 방한 커튼",
+     "cv": 1,
+     "pct": 5.3
+    }
+   ]
   }
  },
  "games": {
@@ -631,6 +780,11 @@
    },
    "daily": [
     {
+     "date": "2026-11-01",
+     "access": 0,
+     "sales": 0
+    },
+    {
      "date": "2026-10-31",
      "access": 0,
      "sales": 0
@@ -699,11 +853,6 @@
      "date": "2026-10-18",
      "access": 0,
      "sales": 0
-    },
-    {
-     "date": "2026-10-17",
-     "access": 0,
-     "sales": 0
     }
    ],
    "products": [],
@@ -712,25 +861,43 @@
   "adpost": null,
   "mate": {
    "month": 11,
-   "count": 0,
-   "day": 1,
+   "count": 18,
+   "day": 2,
    "daysInMonth": 30,
-   "pace": 0,
-   "projected": 0,
+   "pace": 9,
+   "projected": 270,
    "ref": 120000,
    "selectionMonth": 1
   },
-  "at": "2026-11-01T12:40:30.258Z"
+  "at": "2026-11-02T07:00:31.431Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-11-01T12:40:30.289Z",
+  "at": "2026-11-02T07:00:31.462Z",
   "rpm7": null,
-  "logDays": 2,
+  "logDays": 3,
   "base7Date": null,
   "rows": [
+   {
+    "logNo": "224460319594",
+    "no": 3,
+    "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
+    "game": "가구",
+    "keyword": "침대 사이즈 종류",
+    "ageD": 1,
+    "views": 51,
+    "perDay": 51,
+    "v7": 51,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "top"
+   },
    {
     "logNo": "224460288132",
     "no": 1,
@@ -738,9 +905,9 @@
     "game": "인테리어",
     "keyword": "방한커튼 효과",
     "ageD": 1,
-    "views": 20,
-    "perDay": 20,
-    "v7": 20,
+    "views": 30,
+    "perDay": 22.7,
+    "v7": 30,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -756,9 +923,9 @@
     "game": "가구",
     "keyword": "소파 사이즈 고르는 법",
     "ageD": 1,
-    "views": 0,
-    "perDay": 0,
-    "v7": 0,
+    "views": 5,
+    "perDay": 5,
+    "v7": 5,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -769,7 +936,7 @@
    }
   ],
   "counts": {
-   "top": 2,
+   "top": 3,
    "low": 0,
    "noindex": 0,
    "mid": 0
@@ -857,8 +1024,8 @@
   {
    "level": "info",
    "type": "slots",
-   "title": "예약 빈 슬롯 (1일)",
-   "text": "11/4 0/2 · 신규 글 루틴이 채움",
+   "title": "예약 빈 슬롯 (2일)",
+   "text": "11/4 0/2 · 11/5 0/2 · 신규 글 루틴이 채움",
    "action": {
     "label": "새 글 1개 요청",
     "preset": 5
@@ -867,8 +1034,8 @@
   {
    "level": "info",
    "type": "v5",
-   "title": "v5 레이아웃 미적용 2개",
-   "text": "#1 #2 · 일괄 수정 금지 규칙상 기록만"
+   "title": "v5 레이아웃 미적용 3개",
+   "text": "#1 #2 #3 · 일괄 수정 금지 규칙상 기록만"
   }
  ],
  "taskSlots": [
