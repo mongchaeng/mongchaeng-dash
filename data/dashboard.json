@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-11-02T07:02:10.776Z",
- "collectedAtText": "2026-11-02 16:02",
+ "collectedAt": "2026-11-02T07:24:04.988Z",
+ "collectedAtText": "2026-11-02 16:24",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,15 +8,15 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 15567,
+ "elapsedMs": 8631,
  "errors": [],
  "summary": {
   "publicCount": 3,
-  "queueCount": 3,
-  "totalCount": 6,
-  "todayCv": 63,
+  "queueCount": 7,
+  "totalCount": 10,
+  "todayCv": 66,
   "yesterdayCv": 23,
-  "todayVisitor": 63,
+  "todayVisitor": 66,
   "buddyCount": 1,
   "citations": {
    "cumulative": 18,
@@ -25,20 +25,14 @@
    "currentMonth": 11,
    "selectionPeriodMonth": 9
   },
-  "unansweredComments": 1,
+  "unansweredComments": 0,
   "totalComments": 1,
   "v5Pending": 0,
   "probeFail": 0,
   "searchOff": 0,
-  "totalReadCount": 86
+  "totalReadCount": 89
  },
- "alerts": [
-  {
-   "level": "warn",
-   "type": "comment",
-   "text": "미답변 댓글 1건"
-  }
- ],
+ "alerts": [],
  "posts": [
   {
    "no": 1,
@@ -53,8 +47,8 @@
    "openType": "2",
    "searchYn": true,
    "readCount": 30,
-   "commentCount": 1,
-   "unanswered": 1,
+   "commentCount": 2,
+   "unanswered": 0,
    "v5": true,
    "internalLinks": 13,
    "imgs": 9,
@@ -100,7 +94,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460319594",
    "openType": "2",
    "searchYn": true,
-   "readCount": 51,
+   "readCount": 54,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -174,6 +168,90 @@
    "priceUpdate": null,
    "rank": null,
    "aiCited": false
+  },
+  {
+   "no": 7,
+   "logNo": "224462389798",
+   "title": "겨울 창문 뽁뽁이 붙이는 법, 창틀까지 덮으면 열손실 30% 줄어요",
+   "status": "예약",
+   "game": "인테리어",
+   "category": "셀프 DIY",
+   "keyword": "뽁뽁이 붙이는 법",
+   "publishedText": "2026-11-04 08:20",
+   "postDate": 1793748000000,
+   "url": "https://blog.naver.com/mongchaeng_living/224462389798",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  },
+  {
+   "no": 8,
+   "logNo": "224462391385",
+   "title": "식탁 사이즈 4인용 6인용 비교, 1인 60cm로 계산하면 쉬워요",
+   "status": "예약",
+   "game": "가구",
+   "category": "가구 고르는 법",
+   "keyword": "식탁 사이즈",
+   "publishedText": "2026-11-04 20:40",
+   "postDate": 1793792400000,
+   "url": "https://blog.naver.com/mongchaeng_living/224462391385",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  },
+  {
+   "no": 9,
+   "logNo": "224462393216",
+   "title": "냉장고 정리 방법 5단계, 70%만 채워도 냉기가 잘 돌아요",
+   "status": "예약",
+   "game": "살림",
+   "category": "주방살림·집밥",
+   "keyword": "냉장고 정리",
+   "publishedText": "2026-11-05 08:40",
+   "postDate": 1793835600000,
+   "url": "https://blog.naver.com/mongchaeng_living/224462393216",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
+  },
+  {
+   "no": 10,
+   "logNo": "224462394773",
+   "title": "원룸 좁은 방 가구 배치, 침대 옆 50cm만 남겨도 덜 답답해요",
+   "status": "예약",
+   "game": "가구",
+   "category": "가구 배치",
+   "keyword": "좁은 방 가구 배치",
+   "publishedText": "2026-11-05 20:10",
+   "postDate": 1793877000000,
+   "url": "https://blog.naver.com/mongchaeng_living/224462394773",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
   }
  ],
  "queue": [
@@ -197,9 +275,51 @@
    "postDate": 1793705400000,
    "postDateText": "2026-11-03 20:30",
    "addDate": 1793440303039
+  },
+  {
+   "logNo": "224462389798",
+   "title": "겨울 창문 뽁뽁이 붙이는 법, 창틀까지 덮으면 열손실 30% 줄어요",
+   "postDate": 1793748000000,
+   "postDateText": "2026-11-04 08:20",
+   "addDate": 1793603889499
+  },
+  {
+   "logNo": "224462391385",
+   "title": "식탁 사이즈 4인용 6인용 비교, 1인 60cm로 계산하면 쉬워요",
+   "postDate": 1793792400000,
+   "postDateText": "2026-11-04 20:40",
+   "addDate": 1793603963733
+  },
+  {
+   "logNo": "224462393216",
+   "title": "냉장고 정리 방법 5단계, 70%만 채워도 냉기가 잘 돌아요",
+   "postDate": 1793835600000,
+   "postDateText": "2026-11-05 08:40",
+   "addDate": 1793604048138
+  },
+  {
+   "logNo": "224462394773",
+   "title": "원룸 좁은 방 가구 배치, 침대 옆 50cm만 남겨도 덜 답답해요",
+   "postDate": 1793877000000,
+   "postDateText": "2026-11-05 20:10",
+   "addDate": 1793604120859
   }
  ],
  "comments": [
+  {
+   "logNo": "224460288132",
+   "commentNo": "909372767730663459",
+   "parentCommentNo": "909277334446538979",
+   "replyLevel": 2,
+   "userName": "몽챙이",
+   "contents": "그 숫자 보고 저도 꽤 놀랐어요ㅎㅎ 커튼 다실 때 창틀 틈도 같이 챙겨 보세요!",
+   "regTime": "2026-11-02T16:23:07+0900",
+   "mine": true,
+   "replyCount": 0,
+   "deleted": false,
+   "secret": false,
+   "unanswered": false
+  },
   {
    "logNo": "224460288132",
    "commentNo": "909277334446538979",
@@ -209,20 +329,20 @@
    "contents": "커튼만 쳤을 때 절감이 1.4%밖에 안 된다는 건 진짜 의외네요ㅎㅎ 결국 틈부터 막아야 하는 거였군요. 폭 1.8배 팁도 기억해둘게요!",
    "regTime": "2026-11-01T15:41:48+0900",
    "mine": false,
-   "replyCount": 0,
+   "replyCount": 1,
    "deleted": false,
    "secret": false,
-   "unanswered": true
+   "unanswered": false
   }
  ],
  "stats": {
   "dailyCv": [
    {
     "date": "2026-11-02",
-    "total": 63,
+    "total": 66,
     "friend": 1,
     "follow": 0,
-    "etc": 62
+    "etc": 65
    },
    {
     "date": "2026-11-01",
@@ -325,23 +445,23 @@
   ],
   "today": {
    "date": "2026-11-02",
-   "utime": "2026-11-02T16:02:07",
+   "utime": "2026-11-02T16:24:03",
    "dashboard": {
-    "dailyComment": 0,
+    "dailyComment": 1,
     "dailyPlayCount": "0",
-    "dailyCv": 63,
+    "dailyCv": 66,
     "dailyLike": 1,
-    "dailyCommentUtime": "2026-11-02T16:02:07",
-    "dailyRelationDeltaUtime": "2026-11-02T16:02:07",
+    "dailyCommentUtime": "2026-11-02T16:24:03",
+    "dailyRelationDeltaUtime": "2026-11-02T16:24:03",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-11-02T16:02:07",
-    "dailyCvUtime": "2026-11-02T16:02:07"
+    "dailyLikeUtime": "2026-11-02T16:24:03",
+    "dailyCvUtime": "2026-11-02T16:24:03"
    },
    "dailyCv": [
     {
      "date": "2026-11-02",
-     "cv": 63
+     "cv": 66
     },
     {
      "date": "2026-11-01",
@@ -403,7 +523,7 @@
    "rankCv": [
     {
      "rank": 1,
-     "cv": 51,
+     "cv": 54,
      "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
      "logNo": "224460319594",
      "createDate": "2026.11.02. 08:40"
@@ -426,13 +546,13 @@
    "referer": [
     {
      "name": "네이버 통합검색_모바일",
-     "cv": 42,
-     "pct": 68.9
+     "cv": 45,
+     "pct": 70.3
     },
     {
      "name": "네이버 통합검색_PC",
      "cv": 16,
-     "pct": 26.2
+     "pct": 25
     },
     {
      "name": "mongchaeng.github.io",
@@ -454,102 +574,102 @@
     {
      "query": "시몬스 라지킹 사이즈",
      "cv": 5,
-     "pct": 11.9
+     "pct": 11.1
     },
     {
      "query": "슈퍼싱글 사이즈 cm",
      "cv": 2,
-     "pct": 4.8
+     "pct": 4.4
     },
     {
      "query": "시몬스 매트리스 종류",
      "cv": 2,
-     "pct": 4.8
+     "pct": 4.4
     },
     {
      "query": "시몬스 침대 사이즈",
      "cv": 2,
-     "pct": 4.8
+     "pct": 4.4
+    },
+    {
+     "query": "시몬스 킹사이즈",
+     "cv": 2,
+     "pct": 4.4
     },
     {
      "query": "에이스침대 슈퍼킹 사이즈",
      "cv": 2,
-     "pct": 4.8
+     "pct": 4.4
     },
     {
      "query": "3도 커튼",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "라지킹 매트리스 사이즈",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "라지킹 슈퍼킹",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "방한 커튼 곰팡이",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "방한커튼 문풍지",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "방한커튼 실내온도",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "수퍼싱글 사이즈",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "슈퍼싱글 매트리스 사이즈",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "시몬스 lk",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "시몬스 슈퍼싱글 사이즈",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "시몬스 슈퍼싱글침대",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "시몬스 싱글침대 사이즈",
      "cv": 1,
-     "pct": 2.4
-    },
-    {
-     "query": "시몬스 킹사이즈",
-     "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "시몬스라지킹",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     },
     {
      "query": "시몬스침대 슈퍼싱글 매트리스",
      "cv": 1,
-     "pct": 2.4
+     "pct": 2.2
     }
    ]
   },
@@ -714,9 +834,9 @@
  },
  "games": {
   "count": {
-   "인테리어": 2,
-   "가구": 2,
-   "살림": 2
+   "인테리어": 3,
+   "가구": 4,
+   "살림": 3
   },
   "target": {
    "인테리어": 40,
@@ -733,6 +853,17 @@
  "mobileRankHistory": [],
  "aiCited": [],
  "routines": [
+  {
+   "id": "FlVOOfnAOSb5QR6w",
+   "name": "몽챙이 신규 글 (월·목, 빈 슬롯 채움)",
+   "role": null,
+   "status": "active",
+   "rrule": "DTSTART;TZID=Asia/Seoul:20261105T093000\nRRULE:FREQ=WEEKLY;BYDAY=MO,TH;BYHOUR=9;BYMINUTE=30",
+   "nextRunAt": "2026-11-05T00:30:00.000Z",
+   "last": null,
+   "missed": false,
+   "maxGapH": 96
+  },
   {
    "id": "InhWSpssKgEmYdAE",
    "name": "몽챙이 일일 운영 (대시보드 수집 + 앱 작업)",
@@ -851,13 +982,13 @@
    "ref": 120000,
    "selectionMonth": 1
   },
-  "at": "2026-11-02T07:02:10.776Z"
+  "at": "2026-11-02T07:24:04.988Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-11-02T07:02:10.801Z",
+  "at": "2026-11-02T07:24:05.004Z",
   "rpm7": null,
   "logDays": 3,
   "base7Date": null,
@@ -869,9 +1000,9 @@
     "game": "가구",
     "keyword": "침대 사이즈 종류",
     "ageD": 1,
-    "views": 51,
-    "perDay": 51,
-    "v7": 51,
+    "views": 54,
+    "perDay": 54,
+    "v7": 54,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -888,14 +1019,14 @@
     "keyword": "방한커튼 효과",
     "ageD": 1,
     "views": 30,
-    "perDay": 22.7,
+    "perDay": 22.5,
     "v7": 30,
     "v7src": "new",
     "est7": null,
     "mBest": null,
     "pcBlog": null,
     "indexed": null,
-    "comments": 1,
+    "comments": 2,
     "grade": "top"
    },
    {
@@ -990,30 +1121,9 @@
   ],
   "retarget": [],
   "retargetTotal": 0,
-  "expandTotal": 7810
+  "expandTotal": 7799
  },
- "todos": [
-  {
-   "level": "warn",
-   "type": "comment",
-   "title": "미답변 댓글 1건",
-   "text": "바이픽: 커튼만 쳤을 때 절감이 1.4%밖에 안 된다는 건 진짜 의외네요ㅎㅎ 결국",
-   "action": {
-    "label": "답글 요청",
-    "preset": 1
-   }
-  },
-  {
-   "level": "info",
-   "type": "slots",
-   "title": "예약 빈 슬롯 (2일)",
-   "text": "11/4 0/2 · 11/5 0/2 · 신규 글 루틴이 채움",
-   "action": {
-    "label": "새 글 1개 요청",
-    "preset": 5
-   }
-  }
- ],
+ "todos": [],
  "taskSlots": [
   "21:40"
  ],
