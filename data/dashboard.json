@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-11-16T00:58:02.967Z",
- "collectedAtText": "2026-11-16 09:58",
+ "collectedAt": "2026-11-18T12:41:02.907Z",
+ "collectedAtText": "2026-11-18 21:41",
  "blogId": "mongchaeng_living",
  "blogUrl": "https://blog.naver.com/mongchaeng_living",
  "blogName": "몽챙이의 집 꾸미기",
@@ -8,19 +8,19 @@
  "topicLabel": "리빙",
  "perDay": 2,
  "ntfyTopic": "mongchaeng-5tyx2z",
- "elapsedMs": 10130,
+ "elapsedMs": 11412,
  "errors": [],
  "summary": {
-  "publicCount": 31,
-  "queueCount": 14,
-  "totalCount": 45,
-  "todayCv": 32,
-  "yesterdayCv": 141,
-  "todayVisitor": 29,
-  "buddyCount": 11,
+  "publicCount": 35,
+  "queueCount": 11,
+  "totalCount": 46,
+  "todayCv": 126,
+  "yesterdayCv": 155,
+  "todayVisitor": 122,
+  "buddyCount": 12,
   "citations": {
-   "cumulative": 9031,
-   "month": 9031,
+   "cumulative": 11307,
+   "month": 11307,
    "selectionPeriod": 0,
    "currentMonth": 11,
    "selectionPeriodMonth": 9
@@ -30,7 +30,7 @@
   "v5Pending": 0,
   "probeFail": 0,
   "searchOff": 0,
-  "totalReadCount": 1419
+  "totalReadCount": 1829
  },
  "alerts": [
   {
@@ -76,7 +76,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460289472",
    "openType": "2",
    "searchYn": true,
-   "readCount": 42,
+   "readCount": 44,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -100,7 +100,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460319594",
    "openType": "2",
    "searchYn": true,
-   "readCount": 359,
+   "readCount": 381,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -124,7 +124,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460322424",
    "openType": "2",
    "searchYn": true,
-   "readCount": 12,
+   "readCount": 13,
    "commentCount": 2,
    "unanswered": 0,
    "v5": true,
@@ -148,7 +148,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460323291",
    "openType": "2",
    "searchYn": true,
-   "readCount": 11,
+   "readCount": 12,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -172,7 +172,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224460324162",
    "openType": "2",
    "searchYn": true,
-   "readCount": 68,
+   "readCount": 70,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -196,7 +196,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224462389798",
    "openType": "2",
    "searchYn": true,
-   "readCount": 32,
+   "readCount": 33,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -220,7 +220,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224462391385",
    "openType": "2",
    "searchYn": true,
-   "readCount": 105,
+   "readCount": 120,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -268,7 +268,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224462394773",
    "openType": "2",
    "searchYn": true,
-   "readCount": 48,
+   "readCount": 57,
    "commentCount": 1,
    "unanswered": 1,
    "v5": true,
@@ -292,7 +292,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465623688",
    "openType": "2",
    "searchYn": true,
-   "readCount": 29,
+   "readCount": 34,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -316,7 +316,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465625769",
    "openType": "2",
    "searchYn": true,
-   "readCount": 64,
+   "readCount": 72,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -364,7 +364,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465629714",
    "openType": "2",
    "searchYn": true,
-   "readCount": 17,
+   "readCount": 20,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -388,7 +388,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465631914",
    "openType": "2",
    "searchYn": true,
-   "readCount": 33,
+   "readCount": 37,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -412,7 +412,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465633948",
    "openType": "2",
    "searchYn": true,
-   "readCount": 56,
+   "readCount": 77,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -436,7 +436,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465636077",
    "openType": "2",
    "searchYn": true,
-   "readCount": 75,
+   "readCount": 83,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -460,7 +460,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465638138",
    "openType": "2",
    "searchYn": true,
-   "readCount": 58,
+   "readCount": 77,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -484,7 +484,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465640099",
    "openType": "2",
    "searchYn": true,
-   "readCount": 37,
+   "readCount": 56,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -508,7 +508,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465642169",
    "openType": "2",
    "searchYn": true,
-   "readCount": 38,
+   "readCount": 51,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -532,7 +532,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465644231",
    "openType": "2",
    "searchYn": true,
-   "readCount": 38,
+   "readCount": 44,
    "commentCount": 1,
    "unanswered": 1,
    "v5": true,
@@ -556,7 +556,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224465646271",
    "openType": "2",
    "searchYn": true,
-   "readCount": 34,
+   "readCount": 60,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -580,7 +580,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469949022",
    "openType": "2",
    "searchYn": true,
-   "readCount": 17,
+   "readCount": 18,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -604,7 +604,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469950793",
    "openType": "2",
    "searchYn": true,
-   "readCount": 68,
+   "readCount": 103,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -628,7 +628,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469952688",
    "openType": "2",
    "searchYn": true,
-   "readCount": 35,
+   "readCount": 51,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -652,7 +652,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469954547",
    "openType": "2",
    "searchYn": true,
-   "readCount": 12,
+   "readCount": 15,
    "commentCount": 1,
    "unanswered": 1,
    "v5": true,
@@ -676,7 +676,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469956339",
    "openType": "2",
    "searchYn": true,
-   "readCount": 17,
+   "readCount": 31,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -700,7 +700,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469958160",
    "openType": "2",
    "searchYn": true,
-   "readCount": 9,
+   "readCount": 18,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -724,7 +724,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469959982",
    "openType": "2",
    "searchYn": true,
-   "readCount": 16,
+   "readCount": 33,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -748,7 +748,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469961730",
    "openType": "2",
    "searchYn": true,
-   "readCount": 4,
+   "readCount": 13,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -772,7 +772,7 @@
    "url": "https://blog.naver.com/mongchaeng_living/224469963559",
    "openType": "2",
    "searchYn": true,
-   "readCount": 6,
+   "readCount": 68,
    "commentCount": 0,
    "unanswered": 0,
    "v5": true,
@@ -788,85 +788,97 @@
    "no": 32,
    "logNo": "224469965362",
    "title": "크리스마스 트리 꾸미기, 전구부터 감으면 순서가 쉬워요",
-   "status": "예약",
+   "status": "공개",
    "game": "인테리어",
    "category": "우리집 인테리어",
    "keyword": "크리스마스 트리 꾸미기",
    "publishedText": "2026-11-16 20:20",
-   "postDate": 1794828000000,
    "url": "https://blog.naver.com/mongchaeng_living/224469965362",
-   "searchYn": null,
-   "readCount": 0,
+   "openType": "2",
+   "searchYn": true,
+   "readCount": 9,
    "commentCount": 0,
    "unanswered": 0,
-   "v5": false,
+   "v5": true,
+   "internalLinks": 17,
+   "imgs": 8,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 33,
    "logNo": "224473954356",
    "title": "실리콘 곰팡이 제거, 락스 희석액은 15분 두고 헹구면 돼요",
-   "status": "예약",
+   "status": "공개",
    "game": "살림",
    "category": "정리수납",
    "keyword": "실리콘 곰팡이 제거",
    "publishedText": "2026-11-17 08:40",
-   "postDate": 1794872400000,
    "url": "https://blog.naver.com/mongchaeng_living/224473954356",
-   "searchYn": null,
-   "readCount": 0,
+   "openType": "2",
+   "searchYn": true,
+   "readCount": 17,
    "commentCount": 0,
    "unanswered": 0,
-   "v5": false,
+   "v5": true,
+   "internalLinks": 17,
+   "imgs": 9,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 34,
    "logNo": "224473956280",
    "title": "크리스마스 소품 배치, 트리 없이 리스·가랜드 3가지로 꾸며요",
-   "status": "예약",
+   "status": "공개",
    "game": "인테리어",
    "category": "우리집 인테리어",
    "keyword": "크리스마스 소품",
    "publishedText": "2026-11-17 20:20",
-   "postDate": 1794914400000,
    "url": "https://blog.naver.com/mongchaeng_living/224473956280",
-   "searchYn": null,
-   "readCount": 0,
+   "openType": "2",
+   "searchYn": true,
+   "readCount": 18,
    "commentCount": 0,
    "unanswered": 0,
-   "v5": false,
+   "v5": true,
+   "internalLinks": 17,
+   "imgs": 9,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 35,
    "logNo": "224473958251",
    "title": "저상형침대 장단점, 수납침대·일반 프레임과 높이로 비교해요",
-   "status": "예약",
+   "status": "공개",
    "game": "가구",
    "category": "가구 고르는 법",
    "keyword": "저상형침대",
    "publishedText": "2026-11-18 08:10",
-   "postDate": 1794957000000,
    "url": "https://blog.naver.com/mongchaeng_living/224473958251",
-   "searchYn": null,
-   "readCount": 0,
+   "openType": "2",
+   "searchYn": true,
+   "readCount": 15,
    "commentCount": 0,
    "unanswered": 0,
-   "v5": false,
+   "v5": true,
+   "internalLinks": 17,
+   "imgs": 9,
    "relatedLinksPending": false,
    "priceUpdate": null,
    "rank": null,
-   "aiCited": false
+   "aiCited": false,
+   "mRank": null
   },
   {
    "no": 36,
@@ -1077,37 +1089,30 @@
    "priceUpdate": null,
    "rank": null,
    "aiCited": false
+  },
+  {
+   "no": 46,
+   "logNo": "224482506513",
+   "title": "방한커튼 고르는 법, 봉 길이와 바닥까지 2곳만 재면 돼요",
+   "status": "예약",
+   "game": "인테리어",
+   "category": "우리집 인테리어",
+   "keyword": "방한커튼 (구매형)",
+   "publishedText": "2026-11-24 19:30",
+   "postDate": 1795516200000,
+   "url": "https://blog.naver.com/mongchaeng_living/224482506513",
+   "searchYn": null,
+   "readCount": 0,
+   "commentCount": 0,
+   "unanswered": 0,
+   "v5": false,
+   "relatedLinksPending": false,
+   "priceUpdate": null,
+   "rank": null,
+   "aiCited": false
   }
  ],
  "queue": [
-  {
-   "logNo": "224469965362",
-   "title": "크리스마스 트리 꾸미기, 전구부터 감으면 순서가 쉬워요",
-   "postDate": 1794828000000,
-   "postDateText": "2026-11-16 20:20",
-   "addDate": 1794186003063
-  },
-  {
-   "logNo": "224473954356",
-   "title": "실리콘 곰팡이 제거, 락스 희석액은 15분 두고 헹구면 돼요",
-   "postDate": 1794872400000,
-   "postDateText": "2026-11-17 08:40",
-   "addDate": 1794444433848
-  },
-  {
-   "logNo": "224473956280",
-   "title": "크리스마스 소품 배치, 트리 없이 리스·가랜드 3가지로 꾸며요",
-   "postDate": 1794914400000,
-   "postDateText": "2026-11-17 20:20",
-   "addDate": 1794444520064
-  },
-  {
-   "logNo": "224473958251",
-   "title": "저상형침대 장단점, 수납침대·일반 프레임과 높이로 비교해요",
-   "postDate": 1794957000000,
-   "postDateText": "2026-11-18 08:10",
-   "addDate": 1794444608562
-  },
   {
    "logNo": "224473960236",
    "title": "커튼 세탁법, 암막커튼은 30도 이하로 빨고 건조기는 빼요",
@@ -1177,6 +1182,13 @@
    "postDate": 1795433400000,
    "postDateText": "2026-11-23 20:30",
    "addDate": 1794790658498
+  },
+  {
+   "logNo": "224482506513",
+   "title": "방한커튼 고르는 법, 봉 길이와 바닥까지 2곳만 재면 돼요",
+   "postDate": 1795516200000,
+   "postDateText": "2026-11-24 19:30",
+   "addDate": 1795004010134
   }
  ],
  "comments": [
@@ -1282,11 +1294,25 @@
  "stats": {
   "dailyCv": [
    {
-    "date": "2026-11-16",
-    "total": 32,
+    "date": "2026-11-18",
+    "total": 125,
+    "friend": 1,
+    "follow": 0,
+    "etc": 124
+   },
+   {
+    "date": "2026-11-17",
+    "total": 155,
     "friend": 0,
     "follow": 0,
-    "etc": 32
+    "etc": 155
+   },
+   {
+    "date": "2026-11-16",
+    "total": 166,
+    "friend": 0,
+    "follow": 0,
+    "etc": 166
    },
    {
     "date": "2026-11-15",
@@ -1371,41 +1397,35 @@
     "friend": 0,
     "follow": 0,
     "etc": 86
-   },
-   {
-    "date": "2026-11-03",
-    "total": 84,
-    "friend": 0,
-    "follow": 0,
-    "etc": 84
-   },
-   {
-    "date": "2026-11-02",
-    "total": 111,
-    "friend": 1,
-    "follow": 0,
-    "etc": 110
    }
   ],
   "today": {
-   "date": "2026-11-16",
-   "utime": "2026-11-16T09:58",
+   "date": "2026-11-18",
+   "utime": "2026-11-18T21:40:58",
    "dashboard": {
     "dailyComment": 0,
     "dailyPlayCount": "0",
-    "dailyCv": 32,
+    "dailyCv": 126,
     "dailyLike": 0,
-    "dailyCommentUtime": "2026-11-16T09:58",
-    "dailyRelationDeltaUtime": "2026-11-16T09:58",
+    "dailyCommentUtime": "2026-11-18T21:40:58",
+    "dailyRelationDeltaUtime": "2026-11-18T21:40:58",
     "dailyRelationDelta": 0,
     "isToday": true,
-    "dailyLikeUtime": "2026-11-16T09:58",
-    "dailyCvUtime": "2026-11-16T09:58"
+    "dailyLikeUtime": "2026-11-18T21:40:58",
+    "dailyCvUtime": "2026-11-18T21:40:58"
    },
    "dailyCv": [
+    {
+     "date": "2026-11-18",
+     "cv": 126
+    },
+    {
+     "date": "2026-11-17",
+     "cv": 155
+    },
     {
      "date": "2026-11-16",
-     "cv": 32
+     "cv": 166
     },
     {
      "date": "2026-11-15",
@@ -1454,278 +1474,29 @@
     {
      "date": "2026-11-04",
      "cv": 86
-    },
-    {
-     "date": "2026-11-03",
-     "cv": 84
-    },
-    {
-     "date": "2026-11-02",
-     "cv": 111
     }
    ],
    "rankCv": [
     {
      "rank": 1,
-     "cv": 6,
-     "title": "침대 머리 방향, 창문과 문 위치만 보면 쉽게 정해요",
-     "logNo": "224469950793",
-     "createDate": "2026.11.12. 20:40"
-    },
-    {
-     "rank": 1,
-     "cv": 6,
-     "title": "세탁기 통세척 방법, 드럼·통돌이 모두 한 달에 한 번이면 돼요",
-     "logNo": "224469963559",
-     "createDate": "2026.11.16. 08:40"
-    },
-    {
-     "rank": 3,
-     "cv": 3,
-     "title": "창문 방풍비닐 설치, 창틀째 덮어야 외풍이 확 줄어요",
-     "logNo": "224469952688",
-     "createDate": "2026.11.13. 08:50"
-    },
-    {
-     "rank": 4,
-     "cv": 2,
-     "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
-     "logNo": "224460288132",
-     "createDate": "2026.11.01. 08:20"
-    },
-    {
-     "rank": 4,
-     "cv": 2,
-     "title": "식탁 사이즈 4인용 6인용 비교, 1인 60cm로 계산하면 쉬워요",
-     "logNo": "224462391385",
-     "createDate": "2026.11.04. 20:40"
-    },
-    {
-     "rank": 4,
-     "cv": 2,
-     "title": "이사 준비 체크리스트, 2주 전부터 날짜별로 정리했어요",
-     "logNo": "224465636077",
-     "createDate": "2026.11.09. 08:40"
-    }
-   ],
-   "referer": [
-    {
-     "name": "네이버 통합검색_모바일",
-     "cv": 19,
-     "pct": 65.5
-    },
-    {
-     "name": "네이버 블로그_모바일",
-     "cv": 4,
-     "pct": 13.8
-    },
-    {
-     "name": "네이버 메인_모바일_홈판",
-     "cv": 3,
-     "pct": 10.3
-    },
-    {
-     "name": "네이버 통합검색_PC",
-     "cv": 3,
-     "pct": 10.3
-    }
-   ],
-   "searchQueries": [
-    {
-     "query": "6인용 원형식탁 사이즈",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "lg세탁기 통세척",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "드럼세탁기 세제통 끼는법",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "머리 창문쪽으로",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "벽지에 곰팡이",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "북쪽방 꾸미기",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "삼성 통세척 방법",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "세탁기 통세척 클리너 없을때",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "세탁기전용클리너",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "소파옆에 4인식탁",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "시몬스침대 퀸사이즈",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "이삿날 할 일 목록",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "창문쪽 침대헤드",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "천장 간접등 설치 셀프",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "침대 머리방향",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "침대 위치",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "침대본넬은 무엇인가요",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "침실 간접조명 셀프",
-     "cv": 1,
-     "pct": 5.3
-    },
-    {
-     "query": "현관쪽 머리",
-     "cv": 1,
-     "pct": 5.3
-    }
-   ]
-  },
-  "yesterday": {
-   "date": "2026-11-15",
-   "utime": "2026-11-16T09:58",
-   "dashboard": {
-    "dailyComment": 0,
-    "dailyPlayCount": "0",
-    "dailyCv": 141,
-    "dailyLike": 0,
-    "dailyCommentUtime": "2026-11-16T09:58:01",
-    "dailyRelationDeltaUtime": "2026-11-16T09:58:01",
-    "dailyRelationDelta": 0,
-    "isToday": false,
-    "dailyLikeUtime": "2026-11-16T09:58:01",
-    "dailyCvUtime": "2026-11-16T09:58"
-   },
-   "dailyCv": [
-    {
-     "date": "2026-11-15",
-     "cv": 141
-    },
-    {
-     "date": "2026-11-14",
-     "cv": 102
-    },
-    {
-     "date": "2026-11-13",
-     "cv": 104
-    },
-    {
-     "date": "2026-11-12",
-     "cv": 108
-    },
-    {
-     "date": "2026-11-11",
-     "cv": 95
-    },
-    {
-     "date": "2026-11-10",
-     "cv": 99
-    },
-    {
-     "date": "2026-11-09",
-     "cv": 134
-    },
-    {
-     "date": "2026-11-08",
-     "cv": 119
-    },
-    {
-     "date": "2026-11-07",
-     "cv": 86
-    },
-    {
-     "date": "2026-11-06",
-     "cv": 61
-    },
-    {
-     "date": "2026-11-05",
-     "cv": 48
-    },
-    {
-     "date": "2026-11-04",
-     "cv": 86
-    },
-    {
-     "date": "2026-11-03",
-     "cv": 84
-    },
-    {
-     "date": "2026-11-02",
-     "cv": 111
-    },
-    {
-     "date": "2026-11-01",
-     "cv": 23
-    }
-   ],
-   "rankCv": [
-    {
-     "rank": 1,
-     "cv": 22,
-     "title": "침대 머리 방향, 창문과 문 위치만 보면 쉽게 정해요",
-     "logNo": "224469950793",
-     "createDate": "2026.11.12. 20:40"
+     "cv": 15,
+     "title": "저상형침대 장단점, 수납침대·일반 프레임과 높이로 비교해요",
+     "logNo": "224473958251",
+     "createDate": "2026.11.18. 08:10"
     },
     {
      "rank": 2,
-     "cv": 16,
-     "title": "블라인드 설치 방법, 창틀 안쪽인지 바깥쪽인지부터 정해요",
-     "logNo": "224469959982",
-     "createDate": "2026.11.15. 08:10"
+     "cv": 13,
+     "title": "크리스마스 소품 배치, 트리 없이 리스·가랜드 3가지로 꾸며요",
+     "logNo": "224473956280",
+     "createDate": "2026.11.17. 20:20"
     },
     {
      "rank": 3,
-     "cv": 11,
-     "title": "2층침대 고르는 법, 난간 높이와 사다리부터 확인해요",
-     "logNo": "224469956339",
-     "createDate": "2026.11.14. 08:30"
+     "cv": 12,
+     "title": "침대 머리 방향, 창문과 문 위치만 보면 쉽게 정해요",
+     "logNo": "224469950793",
+     "createDate": "2026.11.12. 20:40"
     },
     {
      "rank": 4,
@@ -1735,154 +1506,415 @@
      "createDate": "2026.11.02. 08:40"
     },
     {
-     "rank": 5,
-     "cv": 8,
+     "rank": 4,
+     "cv": 9,
      "title": "책상 높이 기준 60~70cm, 의자와 차이부터 맞추면 편해요",
      "logNo": "224465633948",
      "createDate": "2026.11.08. 20:10"
     },
     {
-     "rank": 5,
+     "rank": 6,
      "cv": 8,
-     "title": "이사 준비 체크리스트, 2주 전부터 날짜별로 정리했어요",
-     "logNo": "224465636077",
-     "createDate": "2026.11.09. 08:40"
+     "title": "아이방 가구 배치, 책상은 창문 옆에 두면 좋은 이유 4가지",
+     "logNo": "224465640099",
+     "createDate": "2026.11.10. 08:10"
     }
    ],
    "referer": [
     {
      "name": "네이버 통합검색_모바일",
-     "cv": 120,
-     "pct": 88.2
+     "cv": 82,
+     "pct": 66.1
     },
     {
      "name": "네이버 통합검색_PC",
-     "cv": 7,
-     "pct": 5.1
-    },
-    {
-     "name": "네이버 블로그_모바일",
-     "cv": 5,
-     "pct": 3.7
+     "cv": 34,
+     "pct": 27.4
     },
     {
      "name": "네이버 메인_모바일_홈판",
      "cv": 3,
-     "pct": 2.2
+     "pct": 2.4
     },
     {
-     "name": "네이버 메인_모바일",
+     "name": "네이버 블로그_모바일",
+     "cv": 2,
+     "pct": 1.6
+    },
+    {
+     "name": "Daum 검색_PC",
      "cv": 1,
-     "pct": 0.7
+     "pct": 0.8
+    },
+    {
+     "name": "Daum 검색_모바일",
+     "cv": 1,
+     "pct": 0.8
+    },
+    {
+     "name": "Daum_모바일",
+     "cv": 1,
+     "pct": 0.8
     }
    ],
    "searchQueries": [
     {
-     "query": "침대머리방향",
+     "query": "곰팡이 몇 분 뒤",
+     "cv": 2,
+     "pct": 2.4
+    },
+    {
+     "query": "낮은 2층침대",
+     "cv": 2,
+     "pct": 2.4
+    },
+    {
+     "query": "라지킹 프레임 에이스킹",
+     "cv": 2,
+     "pct": 2.4
+    },
+    {
+     "query": "유리에 크리스마스리스붙이기",
+     "cv": 2,
+     "pct": 2.4
+    },
+    {
+     "query": "220 식탁 놓고 의자 뒤 여유 공간?",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "4인용식탁 필요 공간수치",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "5평 침대 더블",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "6세 아이 방 침대",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "가랜드트리 설치방법",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "거실 간접조명 셀프",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "공부방 배치도",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "기본책상 높이",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "높이70cm 책상",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "드라이한옷 보관하는법",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "드레스룸 천장형행거",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "락스 닿으면",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "락스 도포",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "락스 원액 곰팡이",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "머리 창가쪽",
+     "cv": 1,
+     "pct": 1.2
+    },
+    {
+     "query": "머리에화장실이있으면",
+     "cv": 1,
+     "pct": 1.2
+    }
+   ]
+  },
+  "yesterday": {
+   "date": "2026-11-17",
+   "utime": "2026-11-18T21:40:59",
+   "dashboard": {
+    "dailyComment": 0,
+    "dailyPlayCount": "0",
+    "dailyCv": 155,
+    "dailyLike": 0,
+    "dailyCommentUtime": "2026-11-18T21:40:59",
+    "dailyRelationDeltaUtime": "2026-11-18T21:40:59",
+    "dailyRelationDelta": 0,
+    "isToday": false,
+    "dailyLikeUtime": "2026-11-18T21:40:59",
+    "dailyCvUtime": "2026-11-18T21:40:59"
+   },
+   "dailyCv": [
+    {
+     "date": "2026-11-17",
+     "cv": 155
+    },
+    {
+     "date": "2026-11-16",
+     "cv": 166
+    },
+    {
+     "date": "2026-11-15",
+     "cv": 141
+    },
+    {
+     "date": "2026-11-14",
+     "cv": 102
+    },
+    {
+     "date": "2026-11-13",
+     "cv": 104
+    },
+    {
+     "date": "2026-11-12",
+     "cv": 108
+    },
+    {
+     "date": "2026-11-11",
+     "cv": 95
+    },
+    {
+     "date": "2026-11-10",
+     "cv": 99
+    },
+    {
+     "date": "2026-11-09",
+     "cv": 134
+    },
+    {
+     "date": "2026-11-08",
+     "cv": 119
+    },
+    {
+     "date": "2026-11-07",
+     "cv": 86
+    },
+    {
+     "date": "2026-11-06",
+     "cv": 61
+    },
+    {
+     "date": "2026-11-05",
+     "cv": 48
+    },
+    {
+     "date": "2026-11-04",
+     "cv": 86
+    },
+    {
+     "date": "2026-11-03",
+     "cv": 84
+    }
+   ],
+   "rankCv": [
+    {
+     "rank": 1,
+     "cv": 21,
+     "title": "세탁기 통세척 방법, 드럼·통돌이 모두 한 달에 한 번이면 돼요",
+     "logNo": "224469963559",
+     "createDate": "2026.11.16. 08:40"
+    },
+    {
+     "rank": 2,
+     "cv": 14,
+     "title": "침대 머리 방향, 창문과 문 위치만 보면 쉽게 정해요",
+     "logNo": "224469950793",
+     "createDate": "2026.11.12. 20:40"
+    },
+    {
+     "rank": 3,
+     "cv": 10,
+     "title": "실리콘 곰팡이 제거, 락스 희석액은 15분 두고 헹구면 돼요",
+     "logNo": "224473954356",
+     "createDate": "2026.11.17. 08:40"
+    },
+    {
+     "rank": 4,
+     "cv": 9,
+     "title": "책상 높이 기준 60~70cm, 의자와 차이부터 맞추면 편해요",
+     "logNo": "224465633948",
+     "createDate": "2026.11.08. 20:10"
+    },
+    {
+     "rank": 4,
+     "cv": 9,
+     "title": "커튼레일 설치 방법, 창틀 위 10~15cm 높이부터 정해요",
+     "logNo": "224465638138",
+     "createDate": "2026.11.09. 20:30"
+    },
+    {
+     "rank": 4,
+     "cv": 9,
+     "title": "거실 간접조명 셀프 설치, 색온도 3000K부터 정하면 쉬워요",
+     "logNo": "224465646271",
+     "createDate": "2026.11.11. 20:20"
+    }
+   ],
+   "referer": [
+    {
+     "name": "네이버 통합검색_모바일",
+     "cv": 104,
+     "pct": 72.2
+    },
+    {
+     "name": "네이버 통합검색_PC",
+     "cv": 31,
+     "pct": 21.5
+    },
+    {
+     "name": "네이버 메인_모바일_홈판",
+     "cv": 4,
+     "pct": 2.8
+    },
+    {
+     "name": "네이버 블로그_모바일",
      "cv": 3,
-     "pct": 2.5
+     "pct": 2.1
     },
     {
-     "query": "화장실쪽으로 머리두고",
-     "cv": 3,
-     "pct": 2.5
-    },
-    {
-     "query": "곰팡이 핀 패딩 세탁 방법",
+     "name": "Daum_모바일",
      "cv": 2,
-     "pct": 1.7
-    },
+     "pct": 1.4
+    }
+   ],
+   "searchQueries": [
     {
-     "query": "블라인드 다는법",
+     "query": "170x240",
      "cv": 2,
-     "pct": 1.7
+     "pct": 1.9
     },
     {
-     "query": "블라인드실측하기",
+     "query": "드럼세탁기 통세척 세제 없을 때",
      "cv": 2,
-     "pct": 1.7
+     "pct": 1.9
     },
     {
-     "query": "서랍도 되면서 책상도 되는 가구",
+     "query": "락스 원액 곰팡이",
      "cv": 2,
-     "pct": 1.7
+     "pct": 1.9
     },
     {
-     "query": "시몬스 라지킹 사이즈",
+     "query": "삼성 드럼세탁기 불림만 하는 법",
      "cv": 2,
-     "pct": 1.7
+     "pct": 1.9
     },
     {
-     "query": "어른2층침대",
+     "query": "아이방 가구",
      "cv": 2,
-     "pct": 1.7
+     "pct": 1.9
     },
     {
-     "query": "우드블라인드설치 위치",
+     "query": "침대 옷장 사이 간격",
      "cv": 2,
-     "pct": 1.7
+     "pct": 1.9
     },
     {
-     "query": "170x240러그",
+     "query": "140 식탁",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "2주 기간 이사준비",
+     "query": "220 식탁 사이즈",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "2층침대",
+     "query": "2인용 식탁 높이",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "2층침대 어른",
+     "query": "2층침대분리형",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "2평 방 가구 배치",
+     "query": "80cm 식티ㅡㄱ",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "3인용2층침대",
+     "query": "90도 책상",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "45cm 높이 쇼파",
+     "query": "LX Z:IN 거실등",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "4인가족 원형식탁. 사이즈",
+     "query": "lg 드럼세탁기 통살균 과탄산소다",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "6/인용가로세로사이즈",
+     "query": "tv 간접조명 셀프",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "60cm 높이 의자",
+     "query": "가랜드트리",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
     },
     {
-     "query": "6인용 식탁 크기",
+     "query": "가습기청소 청소세데",
      "cv": 1,
-     "pct": 0.8
+     "pct": 1
+    },
+    {
+     "query": "간접조명 led 3선 2선",
+     "cv": 1,
+     "pct": 1
+    },
+    {
+     "query": "간접조명 온도",
+     "cv": 1,
+     "pct": 1
+    },
+    {
+     "query": "낮은 커튼박스 간접등",
+     "cv": 1,
+     "pct": 1
     }
    ]
   }
  },
  "games": {
   "count": {
-   "인테리어": 17,
+   "인테리어": 18,
    "가구": 14,
    "살림": 14
   },
@@ -1929,7 +1961,7 @@
    "role": "collect",
    "status": "active",
    "rrule": "DTSTART;TZID=Asia/Seoul:20261101T214000\nRRULE:FREQ=DAILY;BYHOUR=21;BYMINUTE=40",
-   "nextRunAt": "2026-11-16T12:40:00.000Z",
+   "nextRunAt": "2026-11-19T12:40:00.000Z",
    "last": null,
    "missed": false,
    "maxGapH": 24
@@ -1951,6 +1983,16 @@
     "commissionAmount": 0
    },
    "daily": [
+    {
+     "date": "2026-11-17",
+     "access": 0,
+     "sales": 0
+    },
+    {
+     "date": "2026-11-16",
+     "access": 0,
+     "sales": 0
+    },
     {
      "date": "2026-11-15",
      "access": 0,
@@ -2015,16 +2057,6 @@
      "date": "2026-11-03",
      "access": 0,
      "sales": 0
-    },
-    {
-     "date": "2026-11-02",
-     "access": 0,
-     "sales": 0
-    },
-    {
-     "date": "2026-11-01",
-     "access": 0,
-     "sales": 0
     }
    ],
    "products": [],
@@ -2033,24 +2065,24 @@
   "adpost": null,
   "mate": {
    "month": 11,
-   "count": 9031,
-   "day": 16,
+   "count": 11307,
+   "day": 18,
    "daysInMonth": 30,
-   "pace": 564,
-   "projected": 16933,
+   "pace": 628,
+   "projected": 18845,
    "ref": 120000,
    "selectionMonth": 1
   },
-  "at": "2026-11-16T00:58:02.967Z"
+  "at": "2026-11-18T12:41:02.907Z"
  },
  "loginOk": true,
  "preflight": "ok",
  "indexing": null,
  "perf": {
-  "at": "2026-11-16T00:58:02.982Z",
+  "at": "2026-11-18T12:41:02.930Z",
   "rpm7": null,
-  "logDays": 17,
-  "base7Date": "2026-11-09",
+  "logDays": 18,
+  "base7Date": "2026-11-11",
   "rows": [
    {
     "logNo": "224469950793",
@@ -2058,9 +2090,27 @@
     "title": "침대 머리 방향, 창문과 문 위치만 보면 쉽게 정해요",
     "game": "가구",
     "keyword": "침대 머리 방향",
-    "ageD": 4,
+    "ageD": 6,
+    "views": 103,
+    "perDay": 17,
+    "v7": 103,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "top"
+   },
+   {
+    "logNo": "224469963559",
+    "no": 31,
+    "title": "세탁기 통세척 방법, 드럼·통돌이 모두 한 달에 한 번이면 돼요",
+    "game": "살림",
+    "keyword": "세탁기 통세척",
+    "ageD": 3,
     "views": 68,
-    "perDay": 19.1,
+    "perDay": 26.7,
     "v7": 68,
     "v7src": "new",
     "est7": null,
@@ -2071,14 +2121,14 @@
     "grade": "top"
    },
    {
-    "logNo": "224465638138",
-    "no": 18,
-    "title": "커튼레일 설치 방법, 창틀 위 10~15cm 높이부터 정해요",
+    "logNo": "224465646271",
+    "no": 22,
+    "title": "거실 간접조명 셀프 설치, 색온도 3000K부터 정하면 쉬워요",
     "game": "인테리어",
-    "keyword": "커튼레일 설치",
+    "keyword": "거실 간접조명",
     "ageD": 7,
-    "views": 58,
-    "perDay": 8.8,
+    "views": 60,
+    "perDay": 8.5,
     "v7": 57,
     "v7src": "log",
     "est7": null,
@@ -2094,10 +2144,10 @@
     "title": "침대 사이즈 종류, 슈퍼싱글 110cm부터 라지킹까지 비교해요",
     "game": "가구",
     "keyword": "침대 사이즈 종류",
-    "ageD": 14,
-    "views": 359,
-    "perDay": 25.5,
-    "v7": 52,
+    "ageD": 17,
+    "views": 381,
+    "perDay": 23,
+    "v7": 55,
     "v7src": "log",
     "est7": null,
     "mBest": null,
@@ -2112,28 +2162,10 @@
     "title": "책상 높이 기준 60~70cm, 의자와 차이부터 맞추면 편해요",
     "game": "가구",
     "keyword": "책상 높이",
-    "ageD": 8,
-    "views": 56,
-    "perDay": 7.4,
-    "v7": 42,
-    "v7src": "log",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "top"
-   },
-   {
-    "logNo": "224465625769",
-    "no": 12,
-    "title": "매트리스 종류 비교, 본넬·포켓·폼 차이만 알면 쉬워요",
-    "game": "가구",
-    "keyword": "매트리스 종류",
     "ageD": 10,
-    "views": 64,
-    "perDay": 6.7,
-    "v7": 38,
+    "views": 77,
+    "perDay": 7.7,
+    "v7": 53,
     "v7src": "log",
     "est7": null,
     "mBest": null,
@@ -2143,16 +2175,16 @@
     "grade": "top"
    },
    {
-    "logNo": "224465642169",
-    "no": 20,
-    "title": "벽지 위 페인트 칠하기, 실크벽지는 젯소 1회부터 발라요",
+    "logNo": "224465638138",
+    "no": 18,
+    "title": "커튼레일 설치 방법, 창틀 위 10~15cm 높이부터 정해요",
     "game": "인테리어",
-    "keyword": "벽지 위 페인트",
-    "ageD": 6,
-    "views": 38,
-    "perDay": 6.9,
-    "v7": 38,
-    "v7src": "new",
+    "keyword": "커튼레일 설치",
+    "ageD": 9,
+    "views": 77,
+    "perDay": 8.5,
+    "v7": 52,
+    "v7src": "log",
     "est7": null,
     "mBest": null,
     "pcBlog": null,
@@ -2161,22 +2193,22 @@
     "grade": "top"
    },
    {
-    "logNo": "224465644231",
-    "no": 21,
-    "title": "러그 세탁법, 세탁기에 넣어도 되는 기준은 라벨 한 줄이에요",
-    "game": "살림",
-    "keyword": "러그 세탁",
-    "ageD": 5,
-    "views": 38,
-    "perDay": 7.5,
-    "v7": 38,
+    "logNo": "224469952688",
+    "no": 25,
+    "title": "창문 방풍비닐 설치, 창틀째 덮어야 외풍이 확 줄어요",
+    "game": "인테리어",
+    "keyword": "창문 방풍비닐",
+    "ageD": 6,
+    "views": 51,
+    "perDay": 9.2,
+    "v7": 51,
     "v7src": "new",
     "est7": null,
     "mBest": null,
     "pcBlog": null,
     "indexed": null,
-    "comments": 1,
-    "grade": "mid"
+    "comments": 0,
+    "grade": "top"
    },
    {
     "logNo": "224465640099",
@@ -2184,11 +2216,11 @@
     "title": "아이방 가구 배치, 책상은 창문 옆에 두면 좋은 이유 4가지",
     "game": "가구",
     "keyword": "아이방 가구 배치",
-    "ageD": 6,
-    "views": 37,
-    "perDay": 6.1,
-    "v7": 37,
-    "v7src": "new",
+    "ageD": 9,
+    "views": 56,
+    "perDay": 6.5,
+    "v7": 40,
+    "v7src": "log",
     "est7": null,
     "mBest": null,
     "pcBlog": null,
@@ -2202,9 +2234,9 @@
     "title": "식탁 사이즈 4인용 6인용 비교, 1인 60cm로 계산하면 쉬워요",
     "game": "가구",
     "keyword": "식탁 사이즈",
-    "ageD": 12,
-    "views": 105,
-    "perDay": 9.1,
+    "ageD": 14,
+    "views": 120,
+    "perDay": 8.5,
     "v7": 36,
     "v7src": "log",
     "est7": null,
@@ -2215,123 +2247,15 @@
     "grade": "mid"
    },
    {
-    "logNo": "224465636077",
-    "no": 17,
-    "title": "이사 준비 체크리스트, 2주 전부터 날짜별로 정리했어요",
-    "game": "살림",
-    "keyword": "이사 준비 체크리스트",
-    "ageD": 7,
-    "views": 75,
-    "perDay": 10.6,
-    "v7": 35,
-    "v7src": "log",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224469952688",
-    "no": 25,
-    "title": "창문 방풍비닐 설치, 창틀째 덮어야 외풍이 확 줄어요",
+    "logNo": "224465642169",
+    "no": 20,
+    "title": "벽지 위 페인트 칠하기, 실크벽지는 젯소 1회부터 발라요",
     "game": "인테리어",
-    "keyword": "창문 방풍비닐",
-    "ageD": 3,
-    "views": 35,
-    "perDay": 11.5,
-    "v7": 35,
-    "v7src": "new",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224465646271",
-    "no": 22,
-    "title": "거실 간접조명 셀프 설치, 색온도 3000K부터 정하면 쉬워요",
-    "game": "인테리어",
-    "keyword": "거실 간접조명",
-    "ageD": 5,
-    "views": 34,
-    "perDay": 7.4,
-    "v7": 34,
-    "v7src": "new",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224462394773",
-    "no": 10,
-    "title": "원룸 좁은 방 가구 배치, 침대 옆 50cm만 남겨도 덜 답답해요",
-    "game": "가구",
-    "keyword": "좁은 방 가구 배치",
-    "ageD": 11,
-    "views": 48,
-    "perDay": 4.5,
-    "v7": 24,
-    "v7src": "log",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 1,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224469949022",
-    "no": 23,
-    "title": "가습기 청소 방법, 물은 매일 갈고 진동자는 2일마다 닦아요",
-    "game": "살림",
-    "keyword": "가습기 청소",
-    "ageD": 4,
-    "views": 17,
-    "perDay": 4.2,
-    "v7": 17,
-    "v7src": "new",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224469956339",
-    "no": 27,
-    "title": "2층침대 고르는 법, 난간 높이와 사다리부터 확인해요",
-    "game": "가구",
-    "keyword": "2층침대",
-    "ageD": 2,
-    "views": 17,
-    "perDay": 8.2,
-    "v7": 17,
-    "v7src": "new",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224465631914",
-    "no": 15,
-    "title": "거실 러그 사이즈 고르는 법, 소파보다 길게 깔면 돼요",
-    "game": "인테리어",
-    "keyword": "러그 사이즈",
+    "keyword": "벽지 위 페인트",
     "ageD": 8,
-    "views": 33,
-    "perDay": 4.1,
-    "v7": 16,
+    "views": 51,
+    "perDay": 6.3,
+    "v7": 35,
     "v7src": "log",
     "est7": null,
     "mBest": null,
@@ -2346,10 +2270,10 @@
     "title": "블라인드 설치 방법, 창틀 안쪽인지 바깥쪽인지부터 정해요",
     "game": "인테리어",
     "keyword": "블라인드 설치 방법",
-    "ageD": 1,
-    "views": 16,
-    "perDay": 14.9,
-    "v7": 16,
+    "ageD": 4,
+    "views": 33,
+    "perDay": 9.3,
+    "v7": 33,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -2359,34 +2283,16 @@
     "grade": "mid"
    },
    {
-    "logNo": "224460324162",
-    "no": 6,
-    "title": "대형폐기물 신고로 가구 버리는 방법, 스티커까지 3단계예요",
+    "logNo": "224465644231",
+    "no": 21,
+    "title": "러그 세탁법, 세탁기에 넣어도 되는 기준은 라벨 한 줄이에요",
     "game": "살림",
-    "keyword": "가구 버리는 방법",
-    "ageD": 13,
-    "views": 68,
-    "perDay": 5.4,
-    "v7": 12,
+    "keyword": "러그 세탁",
+    "ageD": 8,
+    "views": 44,
+    "perDay": 5.8,
+    "v7": 32,
     "v7src": "log",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224469954547",
-    "no": 26,
-    "title": "패딩 세탁법, 드라이보다 중성세제 물세탁이 맞아요",
-    "game": "살림",
-    "keyword": "패딩 세탁법",
-    "ageD": 3,
-    "views": 12,
-    "perDay": 4.7,
-    "v7": 12,
-    "v7src": "new",
     "est7": null,
     "mBest": null,
     "pcBlog": null,
@@ -2395,16 +2301,88 @@
     "grade": "mid"
    },
    {
-    "logNo": "224460289472",
-    "no": 2,
-    "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
+    "logNo": "224469956339",
+    "no": 27,
+    "title": "2층침대 고르는 법, 난간 높이와 사다리부터 확인해요",
     "game": "가구",
-    "keyword": "소파 사이즈 고르는 법",
-    "ageD": 15,
-    "views": 42,
-    "perDay": 2.9,
-    "v7": 11,
+    "keyword": "2층침대",
+    "ageD": 5,
+    "views": 31,
+    "perDay": 6.8,
+    "v7": 31,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224465636077",
+    "no": 17,
+    "title": "이사 준비 체크리스트, 2주 전부터 날짜별로 정리했어요",
+    "game": "살림",
+    "keyword": "이사 준비 체크리스트",
+    "ageD": 10,
+    "views": 83,
+    "perDay": 8.7,
+    "v7": 29,
     "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224465625769",
+    "no": 12,
+    "title": "매트리스 종류 비교, 본넬·포켓·폼 차이만 알면 쉬워요",
+    "game": "가구",
+    "keyword": "매트리스 종류",
+    "ageD": 12,
+    "views": 72,
+    "perDay": 6,
+    "v7": 26,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224462394773",
+    "no": 10,
+    "title": "원룸 좁은 방 가구 배치, 침대 옆 50cm만 남겨도 덜 답답해요",
+    "game": "가구",
+    "keyword": "좁은 방 가구 배치",
+    "ageD": 13,
+    "views": 57,
+    "perDay": 4.4,
+    "v7": 25,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 1,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224469949022",
+    "no": 23,
+    "title": "가습기 청소 방법, 물은 매일 갈고 진동자는 2일마다 닦아요",
+    "game": "살림",
+    "keyword": "가습기 청소",
+    "ageD": 7,
+    "views": 18,
+    "perDay": 2.7,
+    "v7": 18,
+    "v7src": "new",
     "est7": null,
     "mBest": null,
     "pcBlog": null,
@@ -2418,10 +2396,10 @@
     "title": "전기장판 세탁 방법, 세탁 횟수 5회 미만인 제품도 있어요",
     "game": "살림",
     "keyword": "전기장판 세탁",
-    "ageD": 2,
-    "views": 9,
-    "perDay": 5.8,
-    "v7": 9,
+    "ageD": 4,
+    "views": 18,
+    "perDay": 4.5,
+    "v7": 18,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -2431,51 +2409,15 @@
     "grade": "mid"
    },
    {
-    "logNo": "224462389798",
-    "no": 7,
-    "title": "겨울 창문 뽁뽁이 붙이는 법, 창틀까지 덮으면 열손실 30% 줄어요",
+    "logNo": "224473956280",
+    "no": 34,
+    "title": "크리스마스 소품 배치, 트리 없이 리스·가랜드 3가지로 꾸며요",
     "game": "인테리어",
-    "keyword": "뽁뽁이 붙이는 법",
-    "ageD": 12,
-    "views": 32,
-    "perDay": 2.7,
-    "v7": 8,
-    "v7src": "log",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224465623688",
-    "no": 11,
-    "title": "문풍지 붙이는 법, 현관문·창문 틈 위치부터 확인해요",
-    "game": "인테리어",
-    "keyword": "문풍지 붙이는 법",
-    "ageD": 10,
-    "views": 29,
-    "perDay": 2.9,
-    "v7": 7,
-    "v7src": "log",
-    "est7": null,
-    "mBest": null,
-    "pcBlog": null,
-    "indexed": null,
-    "comments": 0,
-    "grade": "mid"
-   },
-   {
-    "logNo": "224469963559",
-    "no": 31,
-    "title": "세탁기 통세척 방법, 드럼·통돌이 모두 한 달에 한 번이면 돼요",
-    "game": "살림",
-    "keyword": "세탁기 통세척",
+    "keyword": "크리스마스 소품",
     "ageD": 1,
-    "views": 6,
-    "perDay": 6,
-    "v7": 6,
+    "views": 18,
+    "perDay": 17,
+    "v7": 18,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -2485,33 +2427,69 @@
     "grade": "mid"
    },
    {
-    "logNo": "224460288132",
-    "no": 1,
-    "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
-    "game": "인테리어",
-    "keyword": "방한커튼 효과",
-    "ageD": 15,
-    "views": 51,
-    "perDay": 3.4,
-    "v7": 4,
-    "v7src": "log",
+    "logNo": "224473954356",
+    "no": 33,
+    "title": "실리콘 곰팡이 제거, 락스 희석액은 15분 두고 헹구면 돼요",
+    "game": "살림",
+    "keyword": "실리콘 곰팡이 제거",
+    "ageD": 2,
+    "views": 17,
+    "perDay": 11,
+    "v7": 17,
+    "v7src": "new",
     "est7": null,
     "mBest": null,
     "pcBlog": null,
     "indexed": null,
-    "comments": 2,
-    "grade": "low"
+    "comments": 0,
+    "grade": "mid"
    },
    {
-    "logNo": "224465629714",
-    "no": 14,
-    "title": "벽지 곰팡이 제거 방법, 닦을지 도배할지 1㎡가 기준이에요",
+    "logNo": "224469954547",
+    "no": 26,
+    "title": "패딩 세탁법, 드라이보다 중성세제 물세탁이 맞아요",
+    "game": "살림",
+    "keyword": "패딩 세탁법",
+    "ageD": 5,
+    "views": 15,
+    "perDay": 3,
+    "v7": 15,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 1,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224473958251",
+    "no": 35,
+    "title": "저상형침대 장단점, 수납침대·일반 프레임과 높이로 비교해요",
+    "game": "가구",
+    "keyword": "저상형침대",
+    "ageD": 1,
+    "views": 15,
+    "perDay": 15,
+    "v7": 15,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224465631914",
+    "no": 15,
+    "title": "거실 러그 사이즈 고르는 법, 소파보다 길게 깔면 돼요",
     "game": "인테리어",
-    "keyword": "벽지 곰팡이 제거",
-    "ageD": 9,
-    "views": 17,
-    "perDay": 2,
-    "v7": 4,
+    "keyword": "러그 사이즈",
+    "ageD": 11,
+    "views": 37,
+    "perDay": 3.5,
+    "v7": 13,
     "v7src": "log",
     "est7": null,
     "mBest": null,
@@ -2526,10 +2504,10 @@
     "title": "드레스룸 행거 고르는 법, 가장 긴 옷 길이로 봉 높이를 정해요",
     "game": "가구",
     "keyword": "드레스룸 행거",
-    "ageD": 1,
-    "views": 4,
-    "perDay": 4,
-    "v7": 4,
+    "ageD": 3,
+    "views": 13,
+    "perDay": 4.3,
+    "v7": 13,
     "v7src": "new",
     "est7": null,
     "mBest": null,
@@ -2539,15 +2517,123 @@
     "grade": "mid"
    },
    {
-    "logNo": "224460322424",
-    "no": 4,
-    "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
+    "logNo": "224465623688",
+    "no": 11,
+    "title": "문풍지 붙이는 법, 현관문·창문 틈 위치부터 확인해요",
     "game": "인테리어",
-    "keyword": "결로 현상",
-    "ageD": 14,
-    "views": 12,
-    "perDay": 0.9,
-    "v7": 2,
+    "keyword": "문풍지 붙이는 법",
+    "ageD": 13,
+    "views": 34,
+    "perDay": 2.7,
+    "v7": 10,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224469965362",
+    "no": 32,
+    "title": "크리스마스 트리 꾸미기, 전구부터 감으면 순서가 쉬워요",
+    "game": "인테리어",
+    "keyword": "크리스마스 트리 꾸미기",
+    "ageD": 2,
+    "views": 9,
+    "perDay": 4.4,
+    "v7": 9,
+    "v7src": "new",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224460289472",
+    "no": 2,
+    "title": "소파 사이즈 고르는 법, 테이블까지 45cm 남기면 편해요",
+    "game": "가구",
+    "keyword": "소파 사이즈 고르는 법",
+    "ageD": 17,
+    "views": 44,
+    "perDay": 2.6,
+    "v7": 8,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "low"
+   },
+   {
+    "logNo": "224460324162",
+    "no": 6,
+    "title": "대형폐기물 신고로 가구 버리는 방법, 스티커까지 3단계예요",
+    "game": "살림",
+    "keyword": "가구 버리는 방법",
+    "ageD": 15,
+    "views": 70,
+    "perDay": 4.7,
+    "v7": 5,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "low"
+   },
+   {
+    "logNo": "224462389798",
+    "no": 7,
+    "title": "겨울 창문 뽁뽁이 붙이는 법, 창틀까지 덮으면 열손실 30% 줄어요",
+    "game": "인테리어",
+    "keyword": "뽁뽁이 붙이는 법",
+    "ageD": 15,
+    "views": 33,
+    "perDay": 2.3,
+    "v7": 5,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "low"
+   },
+   {
+    "logNo": "224465629714",
+    "no": 14,
+    "title": "벽지 곰팡이 제거 방법, 닦을지 도배할지 1㎡가 기준이에요",
+    "game": "인테리어",
+    "keyword": "벽지 곰팡이 제거",
+    "ageD": 11,
+    "views": 20,
+    "perDay": 1.8,
+    "v7": 4,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "mid"
+   },
+   {
+    "logNo": "224460288132",
+    "no": 1,
+    "title": "방한커튼 효과 있을까, 틈까지 막아야 실내 2~3도 올라요",
+    "game": "인테리어",
+    "keyword": "방한커튼 효과",
+    "ageD": 18,
+    "views": 51,
+    "perDay": 2.9,
+    "v7": 3,
     "v7src": "log",
     "est7": null,
     "mBest": null,
@@ -2562,8 +2648,26 @@
     "title": "옷정리 방법 4단계, 계절 옷 정리는 세탁부터 시작해요",
     "game": "살림",
     "keyword": "계절 옷 정리",
-    "ageD": 13,
-    "views": 11,
+    "ageD": 16,
+    "views": 12,
+    "perDay": 0.8,
+    "v7": 3,
+    "v7src": "log",
+    "est7": null,
+    "mBest": null,
+    "pcBlog": null,
+    "indexed": null,
+    "comments": 0,
+    "grade": "low"
+   },
+   {
+    "logNo": "224460322424",
+    "no": 4,
+    "title": "결로 현상 원인과 막는 법, 습도 50% 아래만 지켜도 줄어요",
+    "game": "인테리어",
+    "keyword": "결로 현상",
+    "ageD": 16,
+    "views": 13,
     "perDay": 0.8,
     "v7": 2,
     "v7src": "log",
@@ -2571,8 +2675,8 @@
     "mBest": null,
     "pcBlog": null,
     "indexed": null,
-    "comments": 0,
-    "grade": "mid"
+    "comments": 2,
+    "grade": "low"
    },
    {
     "logNo": "224462393216",
@@ -2580,9 +2684,9 @@
     "title": "냉장고 정리 방법 5단계, 70%만 채워도 냉기가 잘 돌아요",
     "game": "살림",
     "keyword": "냉장고 정리",
-    "ageD": 11,
+    "ageD": 14,
     "views": 2,
-    "perDay": 0.2,
+    "perDay": 0.1,
     "v7": 1,
     "v7src": "log",
     "est7": null,
@@ -2590,7 +2694,7 @@
     "pcBlog": null,
     "indexed": null,
     "comments": 0,
-    "grade": "mid"
+    "grade": "low"
    },
    {
     "logNo": "224465627708",
@@ -2598,9 +2702,9 @@
     "title": "이불 세탁 방법, 구스·솜·극세사 소재별로 달라요",
     "game": "살림",
     "keyword": "이불 세탁",
-    "ageD": 9,
+    "ageD": 12,
     "views": 26,
-    "perDay": 2.9,
+    "perDay": 2.3,
     "v7": 1,
     "v7src": "log",
     "est7": null,
@@ -2612,10 +2716,10 @@
    }
   ],
   "counts": {
-   "top": 6,
-   "low": 2,
+   "top": 7,
+   "low": 7,
    "noindex": 0,
-   "mid": 23
+   "mid": 21
   }
  },
  "kw": {
@@ -2695,16 +2799,6 @@
    "action": {
     "label": "답글 요청",
     "preset": 1
-   }
-  },
-  {
-   "level": "info",
-   "type": "slots",
-   "title": "예약 빈 슬롯 (1일)",
-   "text": "11/18 1/2 · 신규 글 루틴이 채움",
-   "action": {
-    "label": "새 글 1개 요청",
-    "preset": 5
    }
   }
  ],
